@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+env/
+ENV/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# Environment / secrets
+.env
+.env.local
+.env.*.local
+
+# OS / editor
+.DS_Store
+*.log
+tmp/
+.vscode/
+.idea/
+
+# Project-specific working artifacts
+# Source videos are downloaded by yt-video-download and deleted by yt-video-processing.
+# Belt-and-braces: never commit raw video files.
+*.mp4
+*.webm
+*.mkv
+*.mov
+*.m4a
+*.oga
+*.ogg
