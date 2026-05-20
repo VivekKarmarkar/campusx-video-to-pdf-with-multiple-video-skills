@@ -1,0 +1,4317 @@
+{
+  "language": "en",
+  "duration": 3120.785125,
+  "model": "small",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.44,
+      "text": "Hi guys, my name is Nitish and you're welcome to my YouTube channel."
+    },
+    {
+      "start": 3.86,
+      "end": 9.2,
+      "text": "So if you've watched my last video, you'll remember that I've started a new playlist on this channel."
+    },
+    {
+      "start": 9.2,
+      "end": 13.36,
+      "text": "And the name of this playlist is Model Context Protocol, MCP."
+    },
+    {
+      "start": 13.78,
+      "end": 17.48,
+      "text": "And the motivation behind starting this playlist is that"
+    },
+    {
+      "start": 17.48,
+      "end": 22.44,
+      "text": "this particular term, MCP, has become very popular in the last 1 year."
+    },
+    {
+      "start": 22.86,
+      "end": 28.9,
+      "text": "And it seems like in the next 3 to 5 years MCP will become an industry standard."
+    },
+    {
+      "start": 29.1,
+      "end": 35.7,
+      "text": "Which basically means that in the industry, everyone will have to integrate MCP in their software."
+    },
+    {
+      "start": 36.2,
+      "end": 40.9,
+      "text": "And that is why I received a lot of messages and responses from you guys"
+    },
+    {
+      "start": 40.9,
+      "end": 43.2,
+      "text": "that please cover MCP."
+    },
+    {
+      "start": 43.7,
+      "end": 48.3,
+      "text": "So that is why in the last 30 to 40 days, I was studying MCP."
+    },
+    {
+      "start": 48.3,
+      "end": 50.8,
+      "text": "I was trying to implement it on my laptop."
+    },
+    {
+      "start": 51.2,
+      "end": 54.5,
+      "text": "And eventually I planned a curriculum."
+    },
+    {
+      "start": 54.9,
+      "end": 59.9,
+      "text": "Now, according to that curriculum, I have decided that I will put 3 videos in this playlist."
+    },
+    {
+      "start": 60.44,
+      "end": 65.94,
+      "text": "The first video will be The Why, the second will be The What, the third will be The How."
+    },
+    {
+      "start": 66.34,
+      "end": 71.74,
+      "text": "And my goal is to teach you MCP in this way through these 3 videos."
+    },
+    {
+      "start": 72.56,
+      "end": 74.66,
+      "text": "Now, if we talk about today's video,"
+    },
+    {
+      "start": 75.06,
+      "end": 77.86,
+      "text": "then today's video is the first video of this playlist."
+    },
+    {
+      "start": 78.36,
+      "end": 82.16,
+      "text": "And in this, we will cover the Why aspect of MCP."
+    },
+    {
+      "start": 82.76,
+      "end": 87.56,
+      "text": "So basically, my goal is in this video that I want to teach you in this way"
+    },
+    {
+      "start": 87.86,
+      "end": 89.96,
+      "text": "that why MCP needs to be studied."
+    },
+    {
+      "start": 90.81,
+      "end": 94.11,
+      "text": "What is the problem that MCP solves?"
+    },
+    {
+      "start": 94.87,
+      "end": 100.67,
+      "text": "And to explain the whole thing, I am going to take a very storytelling approach."
+    },
+    {
+      "start": 101.17,
+      "end": 105.27,
+      "text": "I will start from the beginning when 4GPT came into the picture."
+    },
+    {
+      "start": 105.67,
+      "end": 109.07,
+      "text": "And from there to today's date, whatever has happened,"
+    },
+    {
+      "start": 109.47,
+      "end": 112.77,
+      "text": "I will tell you all those things in a story-like fashion."
+    },
+    {
+      "start": 113.27,
+      "end": 119.57,
+      "text": "And this will benefit that I will be able to develop an intuition deeply in your mind"
+    },
+    {
+      "start": 119.97,
+      "end": 122.67,
+      "text": "that why MCP needs to be as a technology."
+    },
+    {
+      "start": 122.97,
+      "end": 127.87,
+      "text": "Okay, so I really hope I could explain to you in the first minute"
+    },
+    {
+      "start": 128.17,
+      "end": 129.97,
+      "text": "what is our goal in this video."
+    },
+    {
+      "start": 130.57,
+      "end": 133.37,
+      "text": "And now if you think everything is right,"
+    },
+    {
+      "start": 133.47,
+      "end": 136.47,
+      "text": "everything is sounding right, then now let's start the video."
+    },
+    {
+      "start": 136.47,
+      "end": 140.17,
+      "text": "So guys, our story starts on November 30, 2022."
+    },
+    {
+      "start": 140.77,
+      "end": 142.57,
+      "text": "The day 4GPT was released."
+    },
+    {
+      "start": 143.66,
+      "end": 148.46,
+      "text": "And within five days, 4GPT crossed the mark of 1 million users."
+    },
+    {
+      "start": 149.19,
+      "end": 152.69,
+      "text": "And in the next two months, it crossed the mark of 100 million users."
+    },
+    {
+      "start": 153.42,
+      "end": 155.02,
+      "text": "And these are not small numbers."
+    },
+    {
+      "start": 155.32,
+      "end": 159.92,
+      "text": "In fact, before 4GPT, no software had achieved such crazy numbers."
+    },
+    {
+      "start": 160.42,
+      "end": 164.42,
+      "text": "Whether you talk about Google or Facebook or Twitter."
+    },
+    {
+      "start": 165.05,
+      "end": 168.75,
+      "text": "In fact, 4GPT is a completely different class of software."
+    },
+    {
+      "start": 169.61,
+      "end": 171.61,
+      "text": "Such software that never came before."
+    },
+    {
+      "start": 172.47,
+      "end": 178.37,
+      "text": "And 4GPT gives you such a capability that no software would have given you before."
+    },
+    {
+      "start": 178.87,
+      "end": 185.77,
+      "text": "And that capability is that you can talk to machines just like you talk to a human being."
+    },
+    {
+      "start": 186.27,
+      "end": 187.77,
+      "text": "In your natural language."
+    },
+    {
+      "start": 188.47,
+      "end": 189.27,
+      "text": "Think about it."
+    },
+    {
+      "start": 189.47,
+      "end": 193.77,
+      "text": "The relationship with our machines is probably 500-600 years old."
+    },
+    {
+      "start": 194.46,
+      "end": 196.46,
+      "text": "At first, mechanical machines used to happen."
+    },
+    {
+      "start": 196.96,
+      "end": 198.46,
+      "text": "Then electrical machines came."
+    },
+    {
+      "start": 198.96,
+      "end": 202.96,
+      "text": "And then in the last 50 years, we have been working a lot with computers."
+    },
+    {
+      "start": 203.46,
+      "end": 208.46,
+      "text": "But in these 500-600 years, our relationship is mostly transactional."
+    },
+    {
+      "start": 208.96,
+      "end": 211.96,
+      "text": "Which basically means that if I want anything from my machine,"
+    },
+    {
+      "start": 212.46,
+      "end": 214.46,
+      "text": "then I just perform an action."
+    },
+    {
+      "start": 214.96,
+      "end": 216.46,
+      "text": "And I get the results of it."
+    },
+    {
+      "start": 217.06,
+      "end": 218.56,
+      "text": "I feel hot."
+    },
+    {
+      "start": 219.06,
+      "end": 221.56,
+      "text": "I want to switch on the fan."
+    },
+    {
+      "start": 222.09,
+      "end": 223.59,
+      "text": "I want to do some calculations."
+    },
+    {
+      "start": 224.09,
+      "end": 225.59,
+      "text": "I want to press the buttons on the calculator."
+    },
+    {
+      "start": 226.09,
+      "end": 228.09,
+      "text": "I want to fill a form."
+    },
+    {
+      "start": 228.59,
+      "end": 233.09,
+      "text": "I will simply type things on the keyboard and press a button."
+    },
+    {
+      "start": 233.59,
+      "end": 235.59,
+      "text": "And the machine will do our job."
+    },
+    {
+      "start": 236.09,
+      "end": 237.59,
+      "text": "This is a transactional relationship."
+    },
+    {
+      "start": 238.09,
+      "end": 241.59,
+      "text": "Where we talk very minimally and get our work done."
+    },
+    {
+      "start": 242.09,
+      "end": 249.59,
+      "text": "But after 4GPT, you can talk to computers just like you talk to a human being."
+    },
+    {
+      "start": 250.09,
+      "end": 252.82,
+      "text": "You can express yourself if you want."
+    },
+    {
+      "start": 252.82,
+      "end": 255.32,
+      "text": "You can express yourself in front of the machine."
+    },
+    {
+      "start": 255.82,
+      "end": 260.82,
+      "text": "You can engage in a thoughtful discussion with your computer."
+    },
+    {
+      "start": 261.32,
+      "end": 264.32,
+      "text": "In fact, you can make it your work partner."
+    },
+    {
+      "start": 264.82,
+      "end": 268.32,
+      "text": "After 4GPT, all this happened."
+    },
+    {
+      "start": 268.82,
+      "end": 273.32,
+      "text": "That is why I am saying that 4GPT is a completely different class of software."
+    },
+    {
+      "start": 273.82,
+      "end": 279.38,
+      "text": "Now, like any other software, when 4GPT was launched,"
+    },
+    {
+      "start": 279.38,
+      "end": 281.88,
+      "text": "its adoption gradually happened."
+    },
+    {
+      "start": 282.38,
+      "end": 287.88,
+      "text": "In fact, if you ask me, then the adoption of 4GPT happened in 3 stages."
+    },
+    {
+      "start": 288.38,
+      "end": 293.88,
+      "text": "So, the first stage, I am calling it the stage of pure wonder."
+    },
+    {
+      "start": 294.38,
+      "end": 298.98,
+      "text": "I still remember, around December 1st week,"
+    },
+    {
+      "start": 299.48,
+      "end": 301.98,
+      "text": "a student messaged me on WhatsApp."
+    },
+    {
+      "start": 302.48,
+      "end": 307.01,
+      "text": "And he said, Sir, try out this particular chatbot."
+    },
+    {
+      "start": 307.51,
+      "end": 308.51,
+      "text": "It's crazy good."
+    },
+    {
+      "start": 308.51,
+      "end": 313.01,
+      "text": "And I still remember, the next day, I was talking to 4GPT."
+    },
+    {
+      "start": 313.51,
+      "end": 318.51,
+      "text": "And I was shocked how intelligent this chatbot is."
+    },
+    {
+      "start": 319.01,
+      "end": 322.01,
+      "text": "And I am pretty sure you all must have experienced the same thing"
+    },
+    {
+      "start": 322.51,
+      "end": 325.01,
+      "text": "when you first talked to 4GPT."
+    },
+    {
+      "start": 325.51,
+      "end": 329.51,
+      "text": "So, in this whole stage, I think people did only one thing."
+    },
+    {
+      "start": 330.01,
+      "end": 333.01,
+      "text": "And that was to calm down their curiosity."
+    },
+    {
+      "start": 333.51,
+      "end": 337.01,
+      "text": "So basically, people asked 4GPT about Utpatang."
+    },
+    {
+      "start": 337.01,
+      "end": 339.51,
+      "text": "For example, I am pretty sure someone must have asked"
+    },
+    {
+      "start": 340.01,
+      "end": 343.51,
+      "text": "to explain quantum physics to a cat perspective."
+    },
+    {
+      "start": 344.01,
+      "end": 348.01,
+      "text": "Or someone else must have asked, if gravity turns upside down,"
+    },
+    {
+      "start": 348.51,
+      "end": 349.51,
+      "text": "what will happen?"
+    },
+    {
+      "start": 350.01,
+      "end": 354.51,
+      "text": "Or someone must have asked, write a song on a pizza in Shakespeare's style."
+    },
+    {
+      "start": 355.17,
+      "end": 357.67,
+      "text": "And basically, we were asking these crazy questions"
+    },
+    {
+      "start": 358.17,
+      "end": 360.67,
+      "text": "and 4GPT was responding intelligently."
+    },
+    {
+      "start": 361.17,
+      "end": 366.67,
+      "text": "And we took a screenshot of it and posted it on LinkedIn, Instagram, WhatsApp."
+    },
+    {
+      "start": 367.17,
+      "end": 370.17,
+      "text": "So in short, in this first wave of adoption,"
+    },
+    {
+      "start": 370.67,
+      "end": 373.67,
+      "text": "what happened was that the social media exploded."
+    },
+    {
+      "start": 374.17,
+      "end": 378.17,
+      "text": "And we were constantly getting screenshots of what people asked"
+    },
+    {
+      "start": 378.67,
+      "end": 380.67,
+      "text": "and what 4GPT replied."
+    },
+    {
+      "start": 381.17,
+      "end": 383.67,
+      "text": "So, there was no meaningful work here."
+    },
+    {
+      "start": 384.17,
+      "end": 387.67,
+      "text": "But our curiosity calmed down a bit."
+    },
+    {
+      "start": 388.23,
+      "end": 390.23,
+      "text": "Then comes the second wave of adoption."
+    },
+    {
+      "start": 390.73,
+      "end": 393.15,
+      "text": "I am calling it a professional adoption"
+    },
+    {
+      "start": 393.15,
+      "end": 397.65,
+      "text": "because once the initial period was over,"
+    },
+    {
+      "start": 398.15,
+      "end": 401.65,
+      "text": "our curiosity calmed down a bit and we understood 4GPT."
+    },
+    {
+      "start": 402.15,
+      "end": 404.65,
+      "text": "So, we got a question automatically"
+    },
+    {
+      "start": 405.15,
+      "end": 407.65,
+      "text": "that what we are doing with 4GPT is fine."
+    },
+    {
+      "start": 408.15,
+      "end": 410.65,
+      "text": "But is this chatbot so intelligent"
+    },
+    {
+      "start": 411.15,
+      "end": 414.65,
+      "text": "that we could help in our professional work?"
+    },
+    {
+      "start": 415.15,
+      "end": 417.65,
+      "text": "So, this was the first time when a lawyer"
+    },
+    {
+      "start": 418.15,
+      "end": 421.15,
+      "text": "put a 50-page contract in 4GPT"
+    },
+    {
+      "start": 421.15,
+      "end": 423.65,
+      "text": "and asked us to summarize it."
+    },
+    {
+      "start": 424.15,
+      "end": 425.65,
+      "text": "And 4GPT did it."
+    },
+    {
+      "start": 426.21,
+      "end": 428.71,
+      "text": "Maybe this was the first time when a coder"
+    },
+    {
+      "start": 429.21,
+      "end": 431.21,
+      "text": "pasted his code and asked if there is an error here."
+    },
+    {
+      "start": 431.71,
+      "end": 432.71,
+      "text": "Can you debug this?"
+    },
+    {
+      "start": 433.21,
+      "end": 434.21,
+      "text": "And 4GPT did it."
+    },
+    {
+      "start": 434.71,
+      "end": 438.21,
+      "text": "Or a teacher like me said that I have to plan a curriculum"
+    },
+    {
+      "start": 438.71,
+      "end": 440.71,
+      "text": "and I don't want to study everything."
+    },
+    {
+      "start": 441.21,
+      "end": 442.21,
+      "text": "Can you do this for me?"
+    },
+    {
+      "start": 442.71,
+      "end": 444.21,
+      "text": "And 4GPT did it again."
+    },
+    {
+      "start": 444.71,
+      "end": 447.71,
+      "text": "So, this was the first time when we collectively realized"
+    },
+    {
+      "start": 448.21,
+      "end": 450.21,
+      "text": "that this is not just a tool to joke."
+    },
+    {
+      "start": 450.21,
+      "end": 453.21,
+      "text": "In fact, this chatbot has got serious potential"
+    },
+    {
+      "start": 453.71,
+      "end": 456.21,
+      "text": "and it can become our work partners."
+    },
+    {
+      "start": 456.71,
+      "end": 458.71,
+      "text": "I mean, we can double our productivity"
+    },
+    {
+      "start": 459.21,
+      "end": 461.71,
+      "text": "with the help of this software."
+    },
+    {
+      "start": 462.21,
+      "end": 465.21,
+      "text": "And this happened where you used to take 6 hours"
+    },
+    {
+      "start": 465.71,
+      "end": 466.71,
+      "text": "to do some work."
+    },
+    {
+      "start": 467.21,
+      "end": 469.71,
+      "text": "With the help of 4GPT, you could do that work in 3 hours."
+    },
+    {
+      "start": 470.21,
+      "end": 473.71,
+      "text": "So, on the whole, after this wave of adoption,"
+    },
+    {
+      "start": 474.21,
+      "end": 477.21,
+      "text": "in the whole world, people saw a productivity boom."
+    },
+    {
+      "start": 477.21,
+      "end": 480.21,
+      "text": "Collectively, everyone's productivity increased."
+    },
+    {
+      "start": 480.71,
+      "end": 483.21,
+      "text": "Everyone's way of working became easier."
+    },
+    {
+      "start": 483.71,
+      "end": 486.71,
+      "text": "And here, 4GPT showed its true power."
+    },
+    {
+      "start": 487.21,
+      "end": 489.56,
+      "text": "And then comes the third wave of adoption,"
+    },
+    {
+      "start": 490.06,
+      "end": 492.06,
+      "text": "which is the API revolution."
+    },
+    {
+      "start": 492.56,
+      "end": 494.56,
+      "text": "At this particular stage,"
+    },
+    {
+      "start": 495.06,
+      "end": 499.06,
+      "text": "OpenAI did not just release 4GPT,"
+    },
+    {
+      "start": 499.56,
+      "end": 504.56,
+      "text": "they also released APIs for the general public."
+    },
+    {
+      "start": 504.56,
+      "end": 507.56,
+      "text": "They wanted to say that if you want,"
+    },
+    {
+      "start": 508.06,
+      "end": 514.06,
+      "text": "you can integrate chatting capabilities like 4GPT in your existing software."
+    },
+    {
+      "start": 514.56,
+      "end": 515.85,
+      "text": "And this happened too."
+    },
+    {
+      "start": 516.35,
+      "end": 520.35,
+      "text": "Many companies realized that although our software is very good,"
+    },
+    {
+      "start": 520.85,
+      "end": 523.85,
+      "text": "it would be great if we could somehow"
+    },
+    {
+      "start": 524.35,
+      "end": 527.85,
+      "text": "get intelligent features like 4GPT in our software."
+    },
+    {
+      "start": 528.35,
+      "end": 531.35,
+      "text": "And this was the first time when Microsoft advanced"
+    },
+    {
+      "start": 531.35,
+      "end": 535.85,
+      "text": "and added a co-pilot feature in Word, Excel, PowerPoint,"
+    },
+    {
+      "start": 536.35,
+      "end": 539.85,
+      "text": "which was basically a way to communicate with their software"
+    },
+    {
+      "start": 540.35,
+      "end": 541.35,
+      "text": "in a natural way."
+    },
+    {
+      "start": 541.85,
+      "end": 547.88,
+      "text": "Then Google came and integrated AI in Gmail, Doc, Sheets and Drive."
+    },
+    {
+      "start": 548.38,
+      "end": 551.88,
+      "text": "And this was the first time when new age tools started coming,"
+    },
+    {
+      "start": 552.38,
+      "end": 554.38,
+      "text": "like cursor or perplexity."
+    },
+    {
+      "start": 554.88,
+      "end": 559.88,
+      "text": "And what happened was that AI was not restricted to just 4GPT."
+    },
+    {
+      "start": 559.88,
+      "end": 562.88,
+      "text": "The software that we were already using,"
+    },
+    {
+      "start": 563.38,
+      "end": 565.38,
+      "text": "also had AI capabilities."
+    },
+    {
+      "start": 565.88,
+      "end": 569.38,
+      "text": "So in short, after this wave of adoption,"
+    },
+    {
+      "start": 569.88,
+      "end": 571.88,
+      "text": "AI became a little more accessible."
+    },
+    {
+      "start": 572.38,
+      "end": 576.38,
+      "text": "If I need AI, then it is not only available in 4GPT,"
+    },
+    {
+      "start": 576.88,
+      "end": 580.38,
+      "text": "it is also available in different software around me."
+    },
+    {
+      "start": 580.88,
+      "end": 582.88,
+      "text": "So in these three waves,"
+    },
+    {
+      "start": 583.38,
+      "end": 587.88,
+      "text": "you can say that LLMs came into our world completely."
+    },
+    {
+      "start": 587.88,
+      "end": 590.88,
+      "text": "So after coming to 4GPT and its APIs,"
+    },
+    {
+      "start": 591.38,
+      "end": 594.88,
+      "text": "all the software around us got AI enabled."
+    },
+    {
+      "start": 595.38,
+      "end": 597.38,
+      "text": "And along with that, it also made sure that"
+    },
+    {
+      "start": 597.88,
+      "end": 599.88,
+      "text": "AI became very accessible."
+    },
+    {
+      "start": 600.38,
+      "end": 604.08,
+      "text": "But with this accessibility, a new problem emerged."
+    },
+    {
+      "start": 604.58,
+      "end": 608.08,
+      "text": "And I call this problem the problem of fragmentation."
+    },
+    {
+      "start": 608.74,
+      "end": 612.24,
+      "text": "So I mean to say that we have a lot of software"
+    },
+    {
+      "start": 612.74,
+      "end": 614.24,
+      "text": "that we use on a daily basis."
+    },
+    {
+      "start": 614.74,
+      "end": 616.74,
+      "text": "And after coming to 4GPT and its APIs,"
+    },
+    {
+      "start": 616.74,
+      "end": 619.74,
+      "text": "all those software got AI enabled."
+    },
+    {
+      "start": 620.24,
+      "end": 623.24,
+      "text": "For example, we use Notion, we also use Slack,"
+    },
+    {
+      "start": 623.74,
+      "end": 625.24,
+      "text": "and these are both AI enabled."
+    },
+    {
+      "start": 625.74,
+      "end": 628.24,
+      "text": "But the problem is that the AI of Notion"
+    },
+    {
+      "start": 628.74,
+      "end": 631.74,
+      "text": "has no idea what is going on in Slack's AI."
+    },
+    {
+      "start": 632.24,
+      "end": 634.24,
+      "text": "Or if we use VS Code,"
+    },
+    {
+      "start": 634.74,
+      "end": 637.24,
+      "text": "and we have installed a coding assistant there,"
+    },
+    {
+      "start": 637.74,
+      "end": 640.24,
+      "text": "then this coding assistant has no idea"
+    },
+    {
+      "start": 640.74,
+      "end": 642.74,
+      "text": "what is going on in Microsoft Teams."
+    },
+    {
+      "start": 643.24,
+      "end": 645.24,
+      "text": "So basically, all of a sudden,"
+    },
+    {
+      "start": 645.24,
+      "end": 649.24,
+      "text": "we realized that we are living in multiple AI worlds."
+    },
+    {
+      "start": 649.74,
+      "end": 651.24,
+      "text": "One AI world of Notion,"
+    },
+    {
+      "start": 651.74,
+      "end": 653.24,
+      "text": "one AI world of Slack,"
+    },
+    {
+      "start": 653.74,
+      "end": 656.24,
+      "text": "one AI world of our VS Code coding assistant,"
+    },
+    {
+      "start": 656.74,
+      "end": 657.74,
+      "text": "and so on."
+    },
+    {
+      "start": 658.24,
+      "end": 660.24,
+      "text": "And if we have to do a small task,"
+    },
+    {
+      "start": 660.74,
+      "end": 664.24,
+      "text": "then we have to juggle between these multiple AI worlds."
+    },
+    {
+      "start": 664.74,
+      "end": 667.24,
+      "text": "Some information is read at one place,"
+    },
+    {
+      "start": 667.74,
+      "end": 669.74,
+      "text": "some information is read at another place."
+    },
+    {
+      "start": 670.24,
+      "end": 673.24,
+      "text": "And our job is to go to all those places"
+    },
+    {
+      "start": 673.24,
+      "end": 676.74,
+      "text": "and merge that information to get our job done."
+    },
+    {
+      "start": 677.24,
+      "end": 679.09,
+      "text": "Now think about it."
+    },
+    {
+      "start": 679.59,
+      "end": 684.15,
+      "text": "We never wanted this problem to be faced."
+    },
+    {
+      "start": 684.65,
+      "end": 689.15,
+      "text": "Our vision when we first saw 4GPT and used it,"
+    },
+    {
+      "start": 689.65,
+      "end": 695.15,
+      "text": "our vision was that we wish we get a unified AI agent"
+    },
+    {
+      "start": 695.65,
+      "end": 699.65,
+      "text": "who understands our entire work end-to-end."
+    },
+    {
+      "start": 700.15,
+      "end": 701.65,
+      "text": "And not only understand,"
+    },
+    {
+      "start": 701.65,
+      "end": 704.15,
+      "text": "but when I get stuck in some problem,"
+    },
+    {
+      "start": 704.65,
+      "end": 709.15,
+      "text": "then that unified agent can solve any problem of mine."
+    },
+    {
+      "start": 709.65,
+      "end": 711.15,
+      "text": "This was our vision."
+    },
+    {
+      "start": 711.65,
+      "end": 713.15,
+      "text": "But instead, what did we get?"
+    },
+    {
+      "start": 713.65,
+      "end": 716.15,
+      "text": "We got 5 different AI tools."
+    },
+    {
+      "start": 716.65,
+      "end": 718.15,
+      "text": "Some work with this AI tool,"
+    },
+    {
+      "start": 718.65,
+      "end": 720.65,
+      "text": "some work with other AI tools,"
+    },
+    {
+      "start": 721.15,
+      "end": 722.15,
+      "text": "and so on."
+    },
+    {
+      "start": 722.88,
+      "end": 726.38,
+      "text": "Now, the unified agent that we had to make,"
+    },
+    {
+      "start": 726.88,
+      "end": 729.38,
+      "text": "this work of making is actually not easy."
+    },
+    {
+      "start": 729.38,
+      "end": 735.76,
+      "text": "And the biggest problem on the way to make this unified agent,"
+    },
+    {
+      "start": 736.26,
+      "end": 739.26,
+      "text": "is the problem of context."
+    },
+    {
+      "start": 739.76,
+      "end": 740.76,
+      "text": "Which we will understand next."
+    },
+    {
+      "start": 741.26,
+      "end": 743.26,
+      "text": "Now let's talk about context."
+    },
+    {
+      "start": 743.76,
+      "end": 747.26,
+      "text": "Context is a very fundamental concept in MCP."
+    },
+    {
+      "start": 747.76,
+      "end": 751.76,
+      "text": "In fact, it is so fundamental that context comes in the name of MCP."
+    },
+    {
+      "start": 752.26,
+      "end": 754.26,
+      "text": "Model-Context Protocol."
+    },
+    {
+      "start": 754.79,
+      "end": 758.79,
+      "text": "So let's take some time to understand this concept in detail."
+    },
+    {
+      "start": 758.79,
+      "end": 763.79,
+      "text": "First of all, let's understand in simple words what context is."
+    },
+    {
+      "start": 764.29,
+      "end": 769.82,
+      "text": "So, in simplest words, context is everything and AI can see,"
+    },
+    {
+      "start": 770.32,
+      "end": 772.32,
+      "text": "when it generates a response."
+    },
+    {
+      "start": 772.82,
+      "end": 775.77,
+      "text": "When AI generates a response,"
+    },
+    {
+      "start": 776.27,
+      "end": 780.09,
+      "text": "the time generated by generating that response,"
+    },
+    {
+      "start": 780.59,
+      "end": 782.59,
+      "text": "the things that are visible to it,"
+    },
+    {
+      "start": 783.09,
+      "end": 784.59,
+      "text": "we call it context."
+    },
+    {
+      "start": 785.09,
+      "end": 787.09,
+      "text": "A little formal definition would be,"
+    },
+    {
+      "start": 787.09,
+      "end": 793.59,
+      "text": "that context refers to the information that the LLM uses to generate a response."
+    },
+    {
+      "start": 794.09,
+      "end": 796.59,
+      "text": "Now that information, conversation, history can also be,"
+    },
+    {
+      "start": 797.09,
+      "end": 798.59,
+      "text": "external documents can also be."
+    },
+    {
+      "start": 799.09,
+      "end": 800.59,
+      "text": "Let's understand through an example."
+    },
+    {
+      "start": 801.09,
+      "end": 804.59,
+      "text": "Suppose you are talking to a chat GPT about quantum physics."
+    },
+    {
+      "start": 805.09,
+      "end": 807.09,
+      "text": "You asked what quantum physics is,"
+    },
+    {
+      "start": 807.59,
+      "end": 808.59,
+      "text": "where to learn quantum physics,"
+    },
+    {
+      "start": 809.09,
+      "end": 810.09,
+      "text": "what are the good books."
+    },
+    {
+      "start": 810.59,
+      "end": 816.09,
+      "text": "Now suddenly you asked how difficult it is to learn a particular topic."
+    },
+    {
+      "start": 816.09,
+      "end": 820.16,
+      "text": "Now how do you know about the chat GPT?"
+    },
+    {
+      "start": 820.66,
+      "end": 822.91,
+      "text": "The answer is conversation history."
+    },
+    {
+      "start": 823.41,
+      "end": 826.41,
+      "text": "The chat GPT will go suddenly and see the whole conversation history,"
+    },
+    {
+      "start": 826.91,
+      "end": 830.41,
+      "text": "and he will realize that the user is talking about quantum physics."
+    },
+    {
+      "start": 830.91,
+      "end": 834.91,
+      "text": "So he will understand that he is asking how difficult it is to learn quantum physics,"
+    },
+    {
+      "start": 835.41,
+      "end": 836.91,
+      "text": "and he will answer you instantly."
+    },
+    {
+      "start": 837.41,
+      "end": 839.41,
+      "text": "So in this particular scenario,"
+    },
+    {
+      "start": 839.91,
+      "end": 844.91,
+      "text": "your conversation history is the context of your AI model."
+    },
+    {
+      "start": 844.91,
+      "end": 845.91,
+      "text": "Okay?"
+    },
+    {
+      "start": 846.41,
+      "end": 848.41,
+      "text": "While typing the next response,"
+    },
+    {
+      "start": 848.91,
+      "end": 851.91,
+      "text": "your AI can see the whole conversation history,"
+    },
+    {
+      "start": 852.41,
+      "end": 855.91,
+      "text": "and it can print its response with the help of it."
+    },
+    {
+      "start": 856.41,
+      "end": 856.91,
+      "text": "Okay?"
+    },
+    {
+      "start": 857.41,
+      "end": 859.41,
+      "text": "So I hope you understood the context roughly."
+    },
+    {
+      "start": 859.91,
+      "end": 861.98,
+      "text": "Now in this particular example,"
+    },
+    {
+      "start": 862.48,
+      "end": 865.48,
+      "text": "context is shown in a very simple way."
+    },
+    {
+      "start": 865.98,
+      "end": 867.98,
+      "text": "Basically in the form of conversation history."
+    },
+    {
+      "start": 868.48,
+      "end": 871.48,
+      "text": "But context is not necessary to be so simple."
+    },
+    {
+      "start": 871.48,
+      "end": 874.98,
+      "text": "Especially if you talk about professional use cases."
+    },
+    {
+      "start": 875.48,
+      "end": 881.51,
+      "text": "So now I will take you to another example and explain how difficult the context can be to understand."
+    },
+    {
+      "start": 882.01,
+      "end": 885.01,
+      "text": "So let's talk about a software engineer."
+    },
+    {
+      "start": 885.51,
+      "end": 889.04,
+      "text": "And what is going on in his life in particular?"
+    },
+    {
+      "start": 889.54,
+      "end": 890.54,
+      "text": "Let's talk about that."
+    },
+    {
+      "start": 891.04,
+      "end": 893.04,
+      "text": "And let's understand the context there."
+    },
+    {
+      "start": 893.54,
+      "end": 894.04,
+      "text": "Okay?"
+    },
+    {
+      "start": 894.54,
+      "end": 896.04,
+      "text": "So I am a software developer,"
+    },
+    {
+      "start": 896.54,
+      "end": 898.04,
+      "text": "and I work in a startup."
+    },
+    {
+      "start": 898.04,
+      "end": 899.54,
+      "text": "We have a product."
+    },
+    {
+      "start": 900.04,
+      "end": 904.04,
+      "text": "Suppose there is an edtech product where people purchase courses, just like you Demi."
+    },
+    {
+      "start": 904.54,
+      "end": 906.02,
+      "text": "Now suddenly,"
+    },
+    {
+      "start": 906.52,
+      "end": 908.52,
+      "text": "I was given a requirement,"
+    },
+    {
+      "start": 909.02,
+      "end": 910.52,
+      "text": "and I was told that"
+    },
+    {
+      "start": 911.02,
+      "end": 916.02,
+      "text": "I have to add a two-factor authentication feature in our website"
+    },
+    {
+      "start": 916.52,
+      "end": 919.02,
+      "text": "so that our website becomes a little more secure."
+    },
+    {
+      "start": 919.58,
+      "end": 922.08,
+      "text": "So I will tell you how this whole thing works."
+    },
+    {
+      "start": 922.58,
+      "end": 923.58,
+      "text": "So what will happen first?"
+    },
+    {
+      "start": 924.08,
+      "end": 928.08,
+      "text": "A ticket will be raised on a software like Gira."
+    },
+    {
+      "start": 928.58,
+      "end": 931.31,
+      "text": "And that ticket will become easy for me."
+    },
+    {
+      "start": 931.81,
+      "end": 934.31,
+      "text": "That I have to develop this feature."
+    },
+    {
+      "start": 935.06,
+      "end": 937.56,
+      "text": "Now, what will I do to develop this feature?"
+    },
+    {
+      "start": 938.06,
+      "end": 939.56,
+      "text": "First, I will go to GitHub."
+    },
+    {
+      "start": 940.06,
+      "end": 943.56,
+      "text": "And from there, I will pull the most updated code base on my machine."
+    },
+    {
+      "start": 944.06,
+      "end": 944.56,
+      "text": "Right?"
+    },
+    {
+      "start": 945.06,
+      "end": 946.06,
+      "text": "And then,"
+    },
+    {
+      "start": 946.56,
+      "end": 948.56,
+      "text": "obviously two-factor authentication is required."
+    },
+    {
+      "start": 949.06,
+      "end": 954.56,
+      "text": "So for that, I will have to go to the database and understand how our existing schema looks like."
+    },
+    {
+      "start": 955.06,
+      "end": 957.56,
+      "text": "So I will use a software like MySQL"
+    },
+    {
+      "start": 957.56,
+      "end": 959.06,
+      "text": "which our company is using."
+    },
+    {
+      "start": 959.56,
+      "end": 963.06,
+      "text": "And by entering that software, I will study the schema of the database."
+    },
+    {
+      "start": 963.56,
+      "end": 966.13,
+      "text": "Suddenly, I will remember"
+    },
+    {
+      "start": 966.63,
+      "end": 969.63,
+      "text": "that I have to follow certain security guidelines"
+    },
+    {
+      "start": 970.13,
+      "end": 972.13,
+      "text": "in order to implement the two-factor authentication."
+    },
+    {
+      "start": 972.63,
+      "end": 975.13,
+      "text": "So what will I do? I will go to Google Drive."
+    },
+    {
+      "start": 975.63,
+      "end": 979.13,
+      "text": "And from there, I will pick up a security document"
+    },
+    {
+      "start": 979.63,
+      "end": 984.13,
+      "text": "with which I will implement this whole two-factor authentication."
+    },
+    {
+      "start": 984.63,
+      "end": 987.13,
+      "text": "Finally, if I go somewhere first,"
+    },
+    {
+      "start": 987.63,
+      "end": 993.13,
+      "text": "then I will go and talk to my teammate or help with the help of Slack like a software."
+    },
+    {
+      "start": 993.72,
+      "end": 996.22,
+      "text": "So in this particular case, if you can see"
+    },
+    {
+      "start": 996.82,
+      "end": 1001.32,
+      "text": "the two-factor authentication system that I have to develop"
+    },
+    {
+      "start": 1001.82,
+      "end": 1003.32,
+      "text": "is my task."
+    },
+    {
+      "start": 1003.82,
+      "end": 1008.32,
+      "text": "But the context related to this task is existing in many places."
+    },
+    {
+      "start": 1008.82,
+      "end": 1011.32,
+      "text": "Now, it is not so simple as in our last example,"
+    },
+    {
+      "start": 1011.82,
+      "end": 1015.32,
+      "text": "our whole context was existing in just one conversation history."
+    },
+    {
+      "start": 1015.32,
+      "end": 1020.82,
+      "text": "In this scenario, our context is existing in multiple places."
+    },
+    {
+      "start": 1021.32,
+      "end": 1022.82,
+      "text": "Now think about it yourself."
+    },
+    {
+      "start": 1023.32,
+      "end": 1026.82,
+      "text": "If I have to develop this two-factor authentication"
+    },
+    {
+      "start": 1027.32,
+      "end": 1030.82,
+      "text": "with the help of AI, let's say 4GPT,"
+    },
+    {
+      "start": 1031.32,
+      "end": 1032.82,
+      "text": "then how will I approach it?"
+    },
+    {
+      "start": 1033.32,
+      "end": 1036.82,
+      "text": "First of all, I will go to Jira."
+    },
+    {
+      "start": 1037.32,
+      "end": 1038.82,
+      "text": "From there, whatever is written in the ticket,"
+    },
+    {
+      "start": 1039.32,
+      "end": 1041.82,
+      "text": "how to implement this whole solution,"
+    },
+    {
+      "start": 1042.32,
+      "end": 1044.82,
+      "text": "I will copy it and paste it on 4GPT."
+    },
+    {
+      "start": 1045.32,
+      "end": 1048.32,
+      "text": "After that, I will go to the code base."
+    },
+    {
+      "start": 1049.49,
+      "end": 1051.49,
+      "text": "I will copy the code of 10-12 files,"
+    },
+    {
+      "start": 1051.99,
+      "end": 1053.99,
+      "text": "which is our existing authentication system."
+    },
+    {
+      "start": 1054.49,
+      "end": 1056.49,
+      "text": "I will paste the code in 4GPT."
+    },
+    {
+      "start": 1056.99,
+      "end": 1059.49,
+      "text": "After that, I will go to MySQL."
+    },
+    {
+      "start": 1059.99,
+      "end": 1063.49,
+      "text": "I will copy the schema and paste it on 4GPT."
+    },
+    {
+      "start": 1063.99,
+      "end": 1066.49,
+      "text": "After that, I will send my security document,"
+    },
+    {
+      "start": 1066.99,
+      "end": 1068.49,
+      "text": "the specifications written there,"
+    },
+    {
+      "start": 1068.99,
+      "end": 1070.49,
+      "text": "I will paste it on 4GPT."
+    },
+    {
+      "start": 1070.99,
+      "end": 1072.99,
+      "text": "After that, if there are any discussions in Slack,"
+    },
+    {
+      "start": 1072.99,
+      "end": 1075.99,
+      "text": "I will copy it and paste it on 4GPT."
+    },
+    {
+      "start": 1076.49,
+      "end": 1078.99,
+      "text": "And finally, after pasting so much,"
+    },
+    {
+      "start": 1079.49,
+      "end": 1081.99,
+      "text": "after 20 minutes, I will ask my first question."
+    },
+    {
+      "start": 1082.49,
+      "end": 1086.99,
+      "text": "How to implement two-factor authentication in such a system?"
+    },
+    {
+      "start": 1087.49,
+      "end": 1093.91,
+      "text": "Now I guess you can see that the context is scattered."
+    },
+    {
+      "start": 1094.41,
+      "end": 1100.41,
+      "text": "And making the context is so difficult and time-taking."
+    },
+    {
+      "start": 1100.91,
+      "end": 1102.91,
+      "text": "And this is the biggest problem."
+    },
+    {
+      "start": 1103.41,
+      "end": 1108.0,
+      "text": "Our problem is that before asking a simple question,"
+    },
+    {
+      "start": 1108.5,
+      "end": 1114.0,
+      "text": "we have to copy thousands of lines of code and paste it on 4GPT."
+    },
+    {
+      "start": 1114.5,
+      "end": 1116.66,
+      "text": "Meaning, if you say in a way,"
+    },
+    {
+      "start": 1117.16,
+      "end": 1120.66,
+      "text": "then we developers have become human APIs."
+    },
+    {
+      "start": 1121.16,
+      "end": 1122.66,
+      "text": "And what is our job?"
+    },
+    {
+      "start": 1123.16,
+      "end": 1127.66,
+      "text": "Our job is to assemble the context for software like 4GPT."
+    },
+    {
+      "start": 1128.16,
+      "end": 1130.66,
+      "text": "So we are basically human APIs."
+    },
+    {
+      "start": 1130.66,
+      "end": 1136.53,
+      "text": "And in a way, it is not wrong to say that the context assembly we are doing,"
+    },
+    {
+      "start": 1137.03,
+      "end": 1140.53,
+      "text": "we are spending more time in this rather than actually developing the product."
+    },
+    {
+      "start": 1141.03,
+      "end": 1148.69,
+      "text": "And apart from this, you have to take care of the context provided to AI."
+    },
+    {
+      "start": 1149.19,
+      "end": 1152.69,
+      "text": "What is left, what is forgotten, what is summarized."
+    },
+    {
+      "start": 1153.19,
+      "end": 1155.69,
+      "text": "This whole thing is not scalable at all."
+    },
+    {
+      "start": 1155.69,
+      "end": 1162.69,
+      "text": "Think about it, if you have a codebase of 50,000 lines,"
+    },
+    {
+      "start": 1163.19,
+      "end": 1166.69,
+      "text": "then can you summarize it for your AI?"
+    },
+    {
+      "start": 1167.19,
+      "end": 1170.69,
+      "text": "Or can you copy and paste the entire context in 4GPT?"
+    },
+    {
+      "start": 1171.19,
+      "end": 1176.19,
+      "text": "So it's not at all possible that you assemble the context from different places"
+    },
+    {
+      "start": 1176.69,
+      "end": 1178.19,
+      "text": "and give your AI."
+    },
+    {
+      "start": 1178.75,
+      "end": 1183.75,
+      "text": "And that is why I am saying that it is very difficult to make a unified AI agent."
+    },
+    {
+      "start": 1183.75,
+      "end": 1188.75,
+      "text": "Because the biggest challenge in front of us is the context assembly."
+    },
+    {
+      "start": 1189.25,
+      "end": 1194.25,
+      "text": "In a real professional scenario, your context exists across systems."
+    },
+    {
+      "start": 1194.75,
+      "end": 1199.25,
+      "text": "And to be able to paste all those things on a copy and paste them in one place"
+    },
+    {
+      "start": 1199.75,
+      "end": 1206.75,
+      "text": "and then be able to talk to 4GPT or any AI software is a very very difficult thing to do."
+    },
+    {
+      "start": 1207.25,
+      "end": 1209.25,
+      "text": "And at scale, it's not at all possible."
+    },
+    {
+      "start": 1209.75,
+      "end": 1212.75,
+      "text": "So if I summarize this context problem,"
+    },
+    {
+      "start": 1212.75,
+      "end": 1221.75,
+      "text": "the main problem is that if we want our AI chatbot to be able to understand all the things related to our work"
+    },
+    {
+      "start": 1222.25,
+      "end": 1225.25,
+      "text": "and be able to help us solve problems,"
+    },
+    {
+      "start": 1225.75,
+      "end": 1229.25,
+      "text": "then it is important that it be able to see all our work."
+    },
+    {
+      "start": 1229.75,
+      "end": 1233.75,
+      "text": "Basically, all our work should be a part of its context."
+    },
+    {
+      "start": 1234.25,
+      "end": 1239.32,
+      "text": "But the problem is that our context, our work is scattered."
+    },
+    {
+      "start": 1239.32,
+      "end": 1245.48,
+      "text": "So then showing AI all that work has become a very hard work because we are manually"
+    },
+    {
+      "start": 1245.98,
+      "end": 1247.98,
+      "text": "copying and pasting things."
+    },
+    {
+      "start": 1248.48,
+      "end": 1253.01,
+      "text": "And as your project grows, the more tools you work with,"
+    },
+    {
+      "start": 1253.51,
+      "end": 1257.01,
+      "text": "the things you copy and paste will go on failing."
+    },
+    {
+      "start": 1257.51,
+      "end": 1266.14,
+      "text": "Ideally, it would have been good if somehow a software like ChatGPT could go to all the places"
+    },
+    {
+      "start": 1266.64,
+      "end": 1268.64,
+      "text": "and fetch the necessary context."
+    },
+    {
+      "start": 1268.64,
+      "end": 1274.39,
+      "text": "So then we don't have to do the manual copy and paste work."
+    },
+    {
+      "start": 1274.89,
+      "end": 1276.49,
+      "text": "And guess what?"
+    },
+    {
+      "start": 1276.99,
+      "end": 1278.99,
+      "text": "This problem was solved eventually."
+    },
+    {
+      "start": 1279.49,
+      "end": 1280.49,
+      "text": "So what happened?"
+    },
+    {
+      "start": 1280.99,
+      "end": 1285.99,
+      "text": "OpenAI released a new concept mid of 2023,"
+    },
+    {
+      "start": 1286.49,
+      "end": 1288.49,
+      "text": "whose name was Function Calling."
+    },
+    {
+      "start": 1288.99,
+      "end": 1292.71,
+      "text": "Now this was a very simple but very powerful concept."
+    },
+    {
+      "start": 1292.71,
+      "end": 1301.53,
+      "text": "With the help of Function Calling, you can call an external function from your LLM."
+    },
+    {
+      "start": 1302.16,
+      "end": 1306.66,
+      "text": "Which basically means that your LLM will not only be useful for chatting,"
+    },
+    {
+      "start": 1307.16,
+      "end": 1311.66,
+      "text": "but if needed, it can also complete a task."
+    },
+    {
+      "start": 1312.29,
+      "end": 1316.79,
+      "text": "So in Function Calling, you provide some set of functions to your LLM."
+    },
+    {
+      "start": 1317.29,
+      "end": 1321.79,
+      "text": "And you give a description about every function to LLM"
+    },
+    {
+      "start": 1321.79,
+      "end": 1324.29,
+      "text": "that this particular function does this."
+    },
+    {
+      "start": 1324.79,
+      "end": 1330.17,
+      "text": "Now guess what? We gave our LLM a function called LoadFile."
+    },
+    {
+      "start": 1330.67,
+      "end": 1333.17,
+      "text": "And we gave this description that if in the future,"
+    },
+    {
+      "start": 1333.67,
+      "end": 1338.67,
+      "text": "the user wants to load a file, then you can use this function."
+    },
+    {
+      "start": 1339.17,
+      "end": 1341.12,
+      "text": "So what will happen now?"
+    },
+    {
+      "start": 1341.62,
+      "end": 1343.62,
+      "text": "When the user gives such a prompt,"
+    },
+    {
+      "start": 1344.12,
+      "end": 1347.62,
+      "text": "read the content of the file abc.txt,"
+    },
+    {
+      "start": 1347.62,
+      "end": 1354.12,
+      "text": "then instead of normal chatting, the LLM will understand that the user is telling him to do something."
+    },
+    {
+      "start": 1354.62,
+      "end": 1358.12,
+      "text": "So what will he do from the start? He will scan the list of functions."
+    },
+    {
+      "start": 1358.62,
+      "end": 1363.12,
+      "text": "And whatever function's description matches with the given task,"
+    },
+    {
+      "start": 1363.62,
+      "end": 1367.62,
+      "text": "automatically what LLM will do? He will call that function."
+    },
+    {
+      "start": 1368.12,
+      "end": 1370.12,
+      "text": "With the right set of arguments,"
+    },
+    {
+      "start": 1370.62,
+      "end": 1377.12,
+      "text": "like here he will say to call LoadFile with this argument abc.txt."
+    },
+    {
+      "start": 1377.62,
+      "end": 1379.12,
+      "text": "And then what will we do?"
+    },
+    {
+      "start": 1379.62,
+      "end": 1382.62,
+      "text": "We will call this LoadFile function with this input."
+    },
+    {
+      "start": 1383.12,
+      "end": 1385.12,
+      "text": "And our task will be executed."
+    },
+    {
+      "start": 1385.62,
+      "end": 1387.62,
+      "text": "Now this is a very small concept."
+    },
+    {
+      "start": 1388.12,
+      "end": 1390.12,
+      "text": "But this was path breaking."
+    },
+    {
+      "start": 1390.62,
+      "end": 1394.12,
+      "text": "Because for the first time, now you can't just chat with LLM,"
+    },
+    {
+      "start": 1394.62,
+      "end": 1398.12,
+      "text": "but at the same time you can execute a task as well."
+    },
+    {
+      "start": 1398.62,
+      "end": 1402.62,
+      "text": "So then some such architecture came into the picture"
+    },
+    {
+      "start": 1402.62,
+      "end": 1408.12,
+      "text": "that there is one LLM with which we have connected a lot of functions,"
+    },
+    {
+      "start": 1408.62,
+      "end": 1410.12,
+      "text": "connected a lot of tools."
+    },
+    {
+      "start": 1410.62,
+      "end": 1414.12,
+      "text": "There is one tool to fetch data from the weather API,"
+    },
+    {
+      "start": 1414.62,
+      "end": 1418.12,
+      "text": "there is one tool to run queries in the database,"
+    },
+    {
+      "start": 1418.62,
+      "end": 1424.12,
+      "text": "there is another tool to fetch information from GitHub,"
+    },
+    {
+      "start": 1424.62,
+      "end": 1427.12,
+      "text": "there is another tool to search the web."
+    },
+    {
+      "start": 1427.12,
+      "end": 1432.62,
+      "text": "So basically you can create different functions for your different tasks."
+    },
+    {
+      "start": 1433.12,
+      "end": 1438.62,
+      "text": "And every function internally will tell you how to execute the given task."
+    },
+    {
+      "start": 1439.12,
+      "end": 1443.62,
+      "text": "And your LLM has only one thing, that the user's prompt will read it and understand"
+    },
+    {
+      "start": 1444.12,
+      "end": 1446.62,
+      "text": "which tool to invoke."
+    },
+    {
+      "start": 1447.12,
+      "end": 1449.75,
+      "text": "And this was a very revolutionary idea."
+    },
+    {
+      "start": 1450.25,
+      "end": 1454.97,
+      "text": "After it came, tools became very good."
+    },
+    {
+      "start": 1454.97,
+      "end": 1458.47,
+      "text": "Any company that was already working with LLMs,"
+    },
+    {
+      "start": 1458.97,
+      "end": 1461.47,
+      "text": "they realized the power of the tools,"
+    },
+    {
+      "start": 1461.97,
+      "end": 1467.47,
+      "text": "and they started making a lot of tools to make their workflow seamless,"
+    },
+    {
+      "start": 1467.97,
+      "end": 1470.47,
+      "text": "to make the context assembly seamless."
+    },
+    {
+      "start": 1470.97,
+      "end": 1474.47,
+      "text": "For example, they first made tools for enterprise software."
+    },
+    {
+      "start": 1474.97,
+      "end": 1477.47,
+      "text": "For example, every company uses your Salesforce,"
+    },
+    {
+      "start": 1477.97,
+      "end": 1480.97,
+      "text": "you use Slack, you use Google Drive, you use databases."
+    },
+    {
+      "start": 1480.97,
+      "end": 1485.47,
+      "text": "So first of all, the company told its developers that you do one thing,"
+    },
+    {
+      "start": 1485.97,
+      "end": 1491.47,
+      "text": "you make a tool for our AI chatbot for Salesforce integration."
+    },
+    {
+      "start": 1491.97,
+      "end": 1495.47,
+      "text": "Similarly, you make a Slackbot tool for Slack."
+    },
+    {
+      "start": 1495.97,
+      "end": 1498.47,
+      "text": "You make connectors of Google Drive,"
+    },
+    {
+      "start": 1498.97,
+      "end": 1501.47,
+      "text": "you make tools to run queries on the database,"
+    },
+    {
+      "start": 1501.97,
+      "end": 1504.47,
+      "text": "or you make a tool for integration of GitHub,"
+    },
+    {
+      "start": 1504.97,
+      "end": 1508.47,
+      "text": "so that all these places where our context exists,"
+    },
+    {
+      "start": 1508.47,
+      "end": 1512.97,
+      "text": "we can connect them and fetch the context at any time."
+    },
+    {
+      "start": 1513.47,
+      "end": 1515.97,
+      "text": "Then companies also made internal tools."
+    },
+    {
+      "start": 1516.47,
+      "end": 1521.97,
+      "text": "For example, HR departments made different functions, tools to access the employees' data,"
+    },
+    {
+      "start": 1522.47,
+      "end": 1525.97,
+      "text": "the finance team made tools for accounting systems,"
+    },
+    {
+      "start": 1526.47,
+      "end": 1529.47,
+      "text": "the marketing team made tools for campaign management,"
+    },
+    {
+      "start": 1529.97,
+      "end": 1532.97,
+      "text": "the IT department made tools for infrastructure management."
+    },
+    {
+      "start": 1532.97,
+      "end": 1537.47,
+      "text": "And at this point, the new AI first software,"
+    },
+    {
+      "start": 1537.97,
+      "end": 1540.47,
+      "text": "they also started making a lot of tools."
+    },
+    {
+      "start": 1540.97,
+      "end": 1543.47,
+      "text": "For example, Cursor, our AI powered code editor,"
+    },
+    {
+      "start": 1543.97,
+      "end": 1546.47,
+      "text": "he made a tool for file system access,"
+    },
+    {
+      "start": 1546.97,
+      "end": 1550.47,
+      "text": "so that you can access any file on your local file system,"
+    },
+    {
+      "start": 1550.97,
+      "end": 1552.47,
+      "text": "and you can search it intelligently."
+    },
+    {
+      "start": 1552.97,
+      "end": 1558.47,
+      "text": "Similarly, Perplexity, he made a tool for web browsing and real-time information retrieval."
+    },
+    {
+      "start": 1558.47,
+      "end": 1560.97,
+      "text": "He made a tool for chat GPT plus,"
+    },
+    {
+      "start": 1561.47,
+      "end": 1563.97,
+      "text": "he made a subscription-based feature in chat GPT,"
+    },
+    {
+      "start": 1564.47,
+      "end": 1565.97,
+      "text": "with the help of which you can browse,"
+    },
+    {
+      "start": 1566.47,
+      "end": 1569.97,
+      "text": "you can upload files, you can execute codes,"
+    },
+    {
+      "start": 1570.47,
+      "end": 1572.97,
+      "text": "Claude used a computer and launched a feature"
+    },
+    {
+      "start": 1573.47,
+      "end": 1576.97,
+      "text": "with the help of which he can completely control your computer."
+    },
+    {
+      "start": 1577.47,
+      "end": 1580.97,
+      "text": "So basically, within six months of the function calling,"
+    },
+    {
+      "start": 1581.47,
+      "end": 1584.97,
+      "text": "the entire AI world has become a source of tools."
+    },
+    {
+      "start": 1584.97,
+      "end": 1589.47,
+      "text": "And now let's see how this software scenario,"
+    },
+    {
+      "start": 1589.97,
+      "end": 1594.47,
+      "text": "where the context was scattered, is now being pan out."
+    },
+    {
+      "start": 1594.97,
+      "end": 1596.47,
+      "text": "So even now, I am the developer,"
+    },
+    {
+      "start": 1596.97,
+      "end": 1602.47,
+      "text": "and I was given the same task to implement two-factor authentication."
+    },
+    {
+      "start": 1602.97,
+      "end": 1605.47,
+      "text": "And to do this, I want the help of chat GPT."
+    },
+    {
+      "start": 1605.97,
+      "end": 1608.47,
+      "text": "But now I have all the necessary tools."
+    },
+    {
+      "start": 1608.97,
+      "end": 1612.47,
+      "text": "As soon as a ticket was raised on the jeera,"
+    },
+    {
+      "start": 1612.47,
+      "end": 1614.97,
+      "text": "the ticket was raised and assigned to me."
+    },
+    {
+      "start": 1615.47,
+      "end": 1618.97,
+      "text": "So now what I can do is, rather than manually go to the jeera"
+    },
+    {
+      "start": 1619.47,
+      "end": 1620.97,
+      "text": "and copy-paste the content of the ticket,"
+    },
+    {
+      "start": 1621.47,
+      "end": 1622.97,
+      "text": "I asked the chat GPT directly,"
+    },
+    {
+      "start": 1623.47,
+      "end": 1628.07,
+      "text": "to go and check whether I have a new ticket assigned on the jeera or not."
+    },
+    {
+      "start": 1628.57,
+      "end": 1632.07,
+      "text": "And since chat GPT is connected to the jeera through a tool,"
+    },
+    {
+      "start": 1632.57,
+      "end": 1636.07,
+      "text": "all this work behind the scenes has been automated."
+    },
+    {
+      "start": 1636.57,
+      "end": 1640.07,
+      "text": "Then I came to know that yes, I have been assigned a new ticket,"
+    },
+    {
+      "start": 1640.07,
+      "end": 1642.57,
+      "text": "to develop two-factor authentication."
+    },
+    {
+      "start": 1643.07,
+      "end": 1644.57,
+      "text": "So I suddenly asked the chat GPT,"
+    },
+    {
+      "start": 1645.07,
+      "end": 1648.57,
+      "text": "can you fetch the most updated code base from GitHub?"
+    },
+    {
+      "start": 1649.13,
+      "end": 1651.63,
+      "text": "So again, if a tool is connected through GitHub,"
+    },
+    {
+      "start": 1652.13,
+      "end": 1653.63,
+      "text": "then the whole code base has come."
+    },
+    {
+      "start": 1654.13,
+      "end": 1655.63,
+      "text": "Then I asked the chat GPT,"
+    },
+    {
+      "start": 1656.13,
+      "end": 1660.7,
+      "text": "that I would need a schema to make two-factor authentication."
+    },
+    {
+      "start": 1661.2,
+      "end": 1663.7,
+      "text": "Since I am connected to MySQL with the help of a tool,"
+    },
+    {
+      "start": 1664.2,
+      "end": 1666.7,
+      "text": "the scheme has also come to chat GPT."
+    },
+    {
+      "start": 1667.2,
+      "end": 1668.7,
+      "text": "Then I asked security guidelines,"
+    },
+    {
+      "start": 1668.7,
+      "end": 1671.2,
+      "text": "whether they are connected to the jeera or not."
+    },
+    {
+      "start": 1671.7,
+      "end": 1675.2,
+      "text": "Finally, I asked the team what they are talking about on Slack,"
+    },
+    {
+      "start": 1675.7,
+      "end": 1678.2,
+      "text": "to fetch the information about this particular thing."
+    },
+    {
+      "start": 1678.7,
+      "end": 1681.2,
+      "text": "Now the entire context has been assembled."
+    },
+    {
+      "start": 1681.7,
+      "end": 1683.2,
+      "text": "Now I asked my question,"
+    },
+    {
+      "start": 1683.7,
+      "end": 1685.2,
+      "text": "that now that you can see everything,"
+    },
+    {
+      "start": 1685.7,
+      "end": 1688.2,
+      "text": "tell me how can I build a two-factor authentication system?"
+    },
+    {
+      "start": 1688.76,
+      "end": 1691.26,
+      "text": "Now you can see the power of tools,"
+    },
+    {
+      "start": 1691.76,
+      "end": 1694.26,
+      "text": "that the context that was first scattered,"
+    },
+    {
+      "start": 1694.76,
+      "end": 1697.26,
+      "text": "is now connected to our AI chatbot,"
+    },
+    {
+      "start": 1697.26,
+      "end": 1698.76,
+      "text": "from chat GPT."
+    },
+    {
+      "start": 1699.26,
+      "end": 1702.76,
+      "text": "And now chat GPT can actually see my entire work."
+    },
+    {
+      "start": 1703.26,
+      "end": 1705.76,
+      "text": "And since it can see my entire work,"
+    },
+    {
+      "start": 1706.26,
+      "end": 1708.76,
+      "text": "then obviously, in doing that work,"
+    },
+    {
+      "start": 1709.26,
+      "end": 1711.76,
+      "text": "it can help me in a very good way."
+    },
+    {
+      "start": 1712.26,
+      "end": 1713.76,
+      "text": "So in this way,"
+    },
+    {
+      "start": 1714.26,
+      "end": 1716.76,
+      "text": "we solved the problem of context assembly,"
+    },
+    {
+      "start": 1717.26,
+      "end": 1719.76,
+      "text": "which was stopping us from becoming a full-fledged,"
+    },
+    {
+      "start": 1720.26,
+      "end": 1721.76,
+      "text": "unified AI partner,"
+    },
+    {
+      "start": 1722.26,
+      "end": 1724.76,
+      "text": "by solving the problem of tools."
+    },
+    {
+      "start": 1724.76,
+      "end": 1728.26,
+      "text": "Now when this function calling slash tools solution came,"
+    },
+    {
+      "start": 1728.76,
+      "end": 1733.26,
+      "text": "people felt that they have solved the problem of context assembly."
+    },
+    {
+      "start": 1733.76,
+      "end": 1735.26,
+      "text": "At least for a few days."
+    },
+    {
+      "start": 1735.76,
+      "end": 1737.26,
+      "text": "But after a while, they realized,"
+    },
+    {
+      "start": 1737.76,
+      "end": 1741.26,
+      "text": "that even though this tools solution works,"
+    },
+    {
+      "start": 1741.76,
+      "end": 1745.26,
+      "text": "and gives you the entire context,"
+    },
+    {
+      "start": 1745.76,
+      "end": 1749.26,
+      "text": "but there is a huge flaw in this approach."
+    },
+    {
+      "start": 1749.79,
+      "end": 1751.29,
+      "text": "I will explain the flaw."
+    },
+    {
+      "start": 1751.79,
+      "end": 1753.29,
+      "text": "So as I told you,"
+    },
+    {
+      "start": 1753.29,
+      "end": 1756.29,
+      "text": "you have to provide your AI context,"
+    },
+    {
+      "start": 1756.79,
+      "end": 1759.79,
+      "text": "the context is scattered across different tools."
+    },
+    {
+      "start": 1760.29,
+      "end": 1761.29,
+      "text": "So what do you do?"
+    },
+    {
+      "start": 1761.79,
+      "end": 1762.79,
+      "text": "For every tool,"
+    },
+    {
+      "start": 1763.29,
+      "end": 1764.79,
+      "text": "you write a function."
+    },
+    {
+      "start": 1765.29,
+      "end": 1765.79,
+      "text": "For example,"
+    },
+    {
+      "start": 1766.29,
+      "end": 1767.79,
+      "text": "let me show you this code."
+    },
+    {
+      "start": 1768.29,
+      "end": 1770.79,
+      "text": "This is the calculator we are making in our line graph playlist."
+    },
+    {
+      "start": 1771.29,
+      "end": 1772.79,
+      "text": "I am sorry, the chatbot we are making,"
+    },
+    {
+      "start": 1773.29,
+      "end": 1774.29,
+      "text": "is its code."
+    },
+    {
+      "start": 1774.79,
+      "end": 1776.79,
+      "text": "And in that chatbot, we have added two tools."
+    },
+    {
+      "start": 1777.29,
+      "end": 1778.29,
+      "text": "A calculator tool,"
+    },
+    {
+      "start": 1778.79,
+      "end": 1780.79,
+      "text": "and a stock market,"
+    },
+    {
+      "start": 1780.79,
+      "end": 1784.29,
+      "text": "to fetch any company's stock value."
+    },
+    {
+      "start": 1784.79,
+      "end": 1785.29,
+      "text": "And you see,"
+    },
+    {
+      "start": 1785.79,
+      "end": 1789.29,
+      "text": "we have made each function associated with these two tools."
+    },
+    {
+      "start": 1789.79,
+      "end": 1790.29,
+      "text": "This is one function,"
+    },
+    {
+      "start": 1790.79,
+      "end": 1792.29,
+      "text": "this is another function."
+    },
+    {
+      "start": 1792.79,
+      "end": 1793.79,
+      "text": "So the basic funda is,"
+    },
+    {
+      "start": 1794.29,
+      "end": 1800.29,
+      "text": "that you have to write a function code for every tool."
+    },
+    {
+      "start": 1800.79,
+      "end": 1803.29,
+      "text": "Now let me tell you how problematic this is."
+    },
+    {
+      "start": 1803.79,
+      "end": 1804.79,
+      "text": "So suppose,"
+    },
+    {
+      "start": 1805.29,
+      "end": 1806.29,
+      "text": "a scenario is that,"
+    },
+    {
+      "start": 1806.79,
+      "end": 1808.79,
+      "text": "the company we work in,"
+    },
+    {
+      "start": 1808.79,
+      "end": 1812.29,
+      "text": "we work with three different AI chatbots."
+    },
+    {
+      "start": 1812.79,
+      "end": 1814.29,
+      "text": "One is a normal chatbot,"
+    },
+    {
+      "start": 1814.79,
+      "end": 1816.29,
+      "text": "with which we can ask anything related to the company."
+    },
+    {
+      "start": 1816.79,
+      "end": 1818.29,
+      "text": "The other is a coding agent."
+    },
+    {
+      "start": 1818.79,
+      "end": 1820.79,
+      "text": "So all the developers in our company,"
+    },
+    {
+      "start": 1821.29,
+      "end": 1822.29,
+      "text": "software developers,"
+    },
+    {
+      "start": 1822.79,
+      "end": 1823.79,
+      "text": "use this coding agent."
+    },
+    {
+      "start": 1824.29,
+      "end": 1826.29,
+      "text": "And there is another chatbot,"
+    },
+    {
+      "start": 1826.79,
+      "end": 1827.79,
+      "text": "called analytics agent."
+    },
+    {
+      "start": 1828.29,
+      "end": 1829.79,
+      "text": "So all our data analysts,"
+    },
+    {
+      "start": 1830.29,
+      "end": 1832.29,
+      "text": "we give them this chatbot,"
+    },
+    {
+      "start": 1832.79,
+      "end": 1833.79,
+      "text": "to do data analysis,"
+    },
+    {
+      "start": 1834.29,
+      "end": 1835.79,
+      "text": "automated data analysis."
+    },
+    {
+      "start": 1836.29,
+      "end": 1837.29,
+      "text": "Now for a while,"
+    },
+    {
+      "start": 1837.29,
+      "end": 1838.79,
+      "text": "let's assume that our company,"
+    },
+    {
+      "start": 1839.29,
+      "end": 1843.79,
+      "text": "works with some 20 different SaaS tools,"
+    },
+    {
+      "start": 1844.29,
+      "end": 1845.29,
+      "text": "like jeera,"
+    },
+    {
+      "start": 1845.79,
+      "end": 1847.79,
+      "text": "Slack, GitHub, MySQL, Drive,"
+    },
+    {
+      "start": 1848.29,
+      "end": 1849.79,
+      "text": "and more like 15 more tools."
+    },
+    {
+      "start": 1850.29,
+      "end": 1851.86,
+      "text": "So now think for yourself,"
+    },
+    {
+      "start": 1852.36,
+      "end": 1855.36,
+      "text": "how many functions we will have to write."
+    },
+    {
+      "start": 1855.86,
+      "end": 1858.86,
+      "text": "How many functions we will have to write."
+    },
+    {
+      "start": 1859.36,
+      "end": 1860.86,
+      "text": "I guess you are able to understand,"
+    },
+    {
+      "start": 1861.36,
+      "end": 1864.86,
+      "text": "that if you have N AI chatbots,"
+    },
+    {
+      "start": 1864.86,
+      "end": 1867.36,
+      "text": "and you have M different tools,"
+    },
+    {
+      "start": 1867.86,
+      "end": 1868.86,
+      "text": "or services,"
+    },
+    {
+      "start": 1869.36,
+      "end": 1870.86,
+      "text": "then in total,"
+    },
+    {
+      "start": 1871.36,
+      "end": 1873.36,
+      "text": "you will have to code N cross M integrations,"
+    },
+    {
+      "start": 1873.86,
+      "end": 1875.86,
+      "text": "or functions."
+    },
+    {
+      "start": 1876.36,
+      "end": 1877.86,
+      "text": "Now, this is a small number."
+    },
+    {
+      "start": 1878.36,
+      "end": 1879.36,
+      "text": "In big companies,"
+    },
+    {
+      "start": 1879.86,
+      "end": 1880.86,
+      "text": "these numbers can be bigger."
+    },
+    {
+      "start": 1881.36,
+      "end": 1883.86,
+      "text": "Maybe you work with more chatbots,"
+    },
+    {
+      "start": 1884.36,
+      "end": 1885.86,
+      "text": "or you work with more SaaS tools,"
+    },
+    {
+      "start": 1886.36,
+      "end": 1887.86,
+      "text": "or internal tools."
+    },
+    {
+      "start": 1888.36,
+      "end": 1891.36,
+      "text": "Now making so many functions,"
+    },
+    {
+      "start": 1891.86,
+      "end": 1892.86,
+      "text": "writing so many functions,"
+    },
+    {
+      "start": 1893.36,
+      "end": 1894.36,
+      "text": "coding so many functions,"
+    },
+    {
+      "start": 1894.86,
+      "end": 1896.36,
+      "text": "is a development nightmare."
+    },
+    {
+      "start": 1896.86,
+      "end": 1897.86,
+      "text": "Think about it."
+    },
+    {
+      "start": 1898.36,
+      "end": 1900.36,
+      "text": "Because for every function,"
+    },
+    {
+      "start": 1900.86,
+      "end": 1903.36,
+      "text": "you have to write your own authentication method."
+    },
+    {
+      "start": 1903.86,
+      "end": 1907.36,
+      "text": "Every tool will have its own data format,"
+    },
+    {
+      "start": 1907.86,
+      "end": 1908.86,
+      "text": "API patterns."
+    },
+    {
+      "start": 1909.36,
+      "end": 1912.36,
+      "text": "Every tool will ask for error handling in a different way."
+    },
+    {
+      "start": 1912.86,
+      "end": 1914.36,
+      "text": "So basically,"
+    },
+    {
+      "start": 1914.86,
+      "end": 1916.36,
+      "text": "coding so much,"
+    },
+    {
+      "start": 1916.86,
+      "end": 1918.86,
+      "text": "is a different task in itself."
+    },
+    {
+      "start": 1919.36,
+      "end": 1922.36,
+      "text": "You basically have to create a different software team,"
+    },
+    {
+      "start": 1922.36,
+      "end": 1924.86,
+      "text": "just to create these integrations."
+    },
+    {
+      "start": 1925.36,
+      "end": 1927.36,
+      "text": "Apart from this, there are more problems."
+    },
+    {
+      "start": 1927.86,
+      "end": 1928.86,
+      "text": "The problem is the maintenance."
+    },
+    {
+      "start": 1929.36,
+      "end": 1930.86,
+      "text": "Suppose you have"
+    },
+    {
+      "start": 1931.42,
+      "end": 1932.42,
+      "text": "3 chatbots,"
+    },
+    {
+      "start": 1932.92,
+      "end": 1934.42,
+      "text": "20 integrations."
+    },
+    {
+      "start": 1934.92,
+      "end": 1936.42,
+      "text": "How many functions do you have to write?"
+    },
+    {
+      "start": 1936.92,
+      "end": 1937.92,
+      "text": "60 functions."
+    },
+    {
+      "start": 1938.42,
+      "end": 1941.42,
+      "text": "Now, you have to maintain these 60 functions."
+    },
+    {
+      "start": 1941.92,
+      "end": 1945.92,
+      "text": "If Google Drive has changed it in its API,"
+    },
+    {
+      "start": 1946.42,
+      "end": 1947.92,
+      "text": "then automatically,"
+    },
+    {
+      "start": 1948.42,
+      "end": 1951.92,
+      "text": "all the integrations of Google Drive have failed."
+    },
+    {
+      "start": 1952.42,
+      "end": 1955.42,
+      "text": "You are not able to talk to Google Drive in 3 or 4 chatbots."
+    },
+    {
+      "start": 1955.92,
+      "end": 1958.92,
+      "text": "So again, you have to debug it."
+    },
+    {
+      "start": 1959.42,
+      "end": 1962.42,
+      "text": "Apart from this, there is a security problem."
+    },
+    {
+      "start": 1962.92,
+      "end": 1964.42,
+      "text": "When you work in big companies,"
+    },
+    {
+      "start": 1964.92,
+      "end": 1969.42,
+      "text": "you make sure that your software works securely."
+    },
+    {
+      "start": 1969.92,
+      "end": 1972.42,
+      "text": "But since you have written 60 different integrations,"
+    },
+    {
+      "start": 1972.92,
+      "end": 1975.92,
+      "text": "and you have your own OAuth,"
+    },
+    {
+      "start": 1976.42,
+      "end": 1977.92,
+      "text": "your APIs keys,"
+    },
+    {
+      "start": 1978.42,
+      "end": 1981.42,
+      "text": "you cannot manage all of them in a single place."
+    },
+    {
+      "start": 1981.42,
+      "end": 1983.42,
+      "text": "If you have all the information in different files,"
+    },
+    {
+      "start": 1983.92,
+      "end": 1985.92,
+      "text": "then your security is fragmented."
+    },
+    {
+      "start": 1986.42,
+      "end": 1991.42,
+      "text": "And it is possible that some kind of hack will be performed there."
+    },
+    {
+      "start": 1991.92,
+      "end": 1993.42,
+      "text": "And the fourth problem is,"
+    },
+    {
+      "start": 1993.92,
+      "end": 1995.42,
+      "text": "that in this whole approach,"
+    },
+    {
+      "start": 1995.92,
+      "end": 1998.42,
+      "text": "your cost and time is getting wasted."
+    },
+    {
+      "start": 1998.92,
+      "end": 2000.92,
+      "text": "Think about how time is getting wasted."
+    },
+    {
+      "start": 2001.42,
+      "end": 2002.92,
+      "text": "If I have a chatbot,"
+    },
+    {
+      "start": 2003.42,
+      "end": 2006.42,
+      "text": "and I have to connect 20 tools with it,"
+    },
+    {
+      "start": 2006.92,
+      "end": 2010.42,
+      "text": "then I have to write individual integrations for 20 tools."
+    },
+    {
+      "start": 2010.42,
+      "end": 2013.42,
+      "text": "I basically have to make 20 functions like this,"
+    },
+    {
+      "start": 2013.92,
+      "end": 2015.92,
+      "text": "which is very complex in itself."
+    },
+    {
+      "start": 2016.42,
+      "end": 2019.92,
+      "text": "So every integration will take time to code every function."
+    },
+    {
+      "start": 2020.42,
+      "end": 2022.92,
+      "text": "So my chatbot should be fully functional."
+    },
+    {
+      "start": 2023.42,
+      "end": 2025.92,
+      "text": "It may take 2-3 months."
+    },
+    {
+      "start": 2026.42,
+      "end": 2028.42,
+      "text": "Right? After that, cost is involved."
+    },
+    {
+      "start": 2028.92,
+      "end": 2031.92,
+      "text": "Basically, I have to set up a whole team"
+    },
+    {
+      "start": 2032.42,
+      "end": 2036.42,
+      "text": "that handles the entire integration part."
+    },
+    {
+      "start": 2036.92,
+      "end": 2038.92,
+      "text": "Now I have to see their salaries."
+    },
+    {
+      "start": 2038.92,
+      "end": 2041.42,
+      "text": "Now think about my end goal."
+    },
+    {
+      "start": 2041.92,
+      "end": 2042.92,
+      "text": "Why am I doing this?"
+    },
+    {
+      "start": 2043.42,
+      "end": 2046.42,
+      "text": "So that my existing developers can do their job easily."
+    },
+    {
+      "start": 2046.92,
+      "end": 2048.92,
+      "text": "Now that their job is easy,"
+    },
+    {
+      "start": 2049.42,
+      "end": 2052.42,
+      "text": "I have to hire other developers to do this job."
+    },
+    {
+      "start": 2052.92,
+      "end": 2054.42,
+      "text": "Just see the irony in this."
+    },
+    {
+      "start": 2054.92,
+      "end": 2056.92,
+      "text": "You went to do something easy,"
+    },
+    {
+      "start": 2057.42,
+      "end": 2059.42,
+      "text": "but it became more difficult."
+    },
+    {
+      "start": 2059.92,
+      "end": 2061.42,
+      "text": "So what I am trying to say is,"
+    },
+    {
+      "start": 2061.92,
+      "end": 2065.42,
+      "text": "that the solution of tools and function calling,"
+    },
+    {
+      "start": 2065.42,
+      "end": 2069.92,
+      "text": "that we implemented in order to solve the context assembly problem,"
+    },
+    {
+      "start": 2070.42,
+      "end": 2074.92,
+      "text": "actually brought an integration problem in itself at scale,"
+    },
+    {
+      "start": 2075.42,
+      "end": 2078.92,
+      "text": "which again seemed very heavy for people to solve."
+    },
+    {
+      "start": 2079.42,
+      "end": 2086.27,
+      "text": "Now let's summarize the integration problem of this function calling slash tools."
+    },
+    {
+      "start": 2086.77,
+      "end": 2089.27,
+      "text": "The basic overview of this problem is that"
+    },
+    {
+      "start": 2089.77,
+      "end": 2093.27,
+      "text": "our company is using more than one AI chatbots."
+    },
+    {
+      "start": 2093.27,
+      "end": 2095.77,
+      "text": "It's possible that our company is using perplexity,"
+    },
+    {
+      "start": 2096.27,
+      "end": 2097.77,
+      "text": "along with cursor,"
+    },
+    {
+      "start": 2098.27,
+      "end": 2099.77,
+      "text": "and also using chat gpt."
+    },
+    {
+      "start": 2100.27,
+      "end": 2104.77,
+      "text": "And we want these three chatbots to connect with GitHub."
+    },
+    {
+      "start": 2105.27,
+      "end": 2108.22,
+      "text": "Now the problem is that to do this job,"
+    },
+    {
+      "start": 2108.72,
+      "end": 2111.22,
+      "text": "we have to make three different integrations."
+    },
+    {
+      "start": 2111.72,
+      "end": 2114.32,
+      "text": "One for perplexity and GitHub,"
+    },
+    {
+      "start": 2114.82,
+      "end": 2116.32,
+      "text": "one for cursor and GitHub,"
+    },
+    {
+      "start": 2116.82,
+      "end": 2119.32,
+      "text": "and one for chat gpt and GitHub."
+    },
+    {
+      "start": 2119.82,
+      "end": 2122.94,
+      "text": "And the problem is that these three integrations"
+    },
+    {
+      "start": 2122.94,
+      "end": 2125.44,
+      "text": "will look different from each other."
+    },
+    {
+      "start": 2125.94,
+      "end": 2131.44,
+      "text": "So the problem is that every AI tool is building its own way"
+    },
+    {
+      "start": 2131.94,
+      "end": 2133.44,
+      "text": "to call every API."
+    },
+    {
+      "start": 2134.65,
+      "end": 2139.15,
+      "text": "It would be nice if we somehow make sure"
+    },
+    {
+      "start": 2139.65,
+      "end": 2142.65,
+      "text": "that rather than making three integrations,"
+    },
+    {
+      "start": 2143.15,
+      "end": 2146.65,
+      "text": "we would just make one single integration of GitHub."
+    },
+    {
+      "start": 2147.5,
+      "end": 2150.5,
+      "text": "And the same integration would work with perplexity,"
+    },
+    {
+      "start": 2151.0,
+      "end": 2153.0,
+      "text": "the same with cursor,"
+    },
+    {
+      "start": 2153.0,
+      "end": 2155.5,
+      "text": "the same with chat gpt."
+    },
+    {
+      "start": 2156.0,
+      "end": 2159.0,
+      "text": "This is what we want to achieve."
+    },
+    {
+      "start": 2159.5,
+      "end": 2162.5,
+      "text": "And this is how we can solve this integration problem."
+    },
+    {
+      "start": 2163.0,
+      "end": 2165.76,
+      "text": "And then who came to solve this problem?"
+    },
+    {
+      "start": 2166.26,
+      "end": 2169.39,
+      "text": "MCP, Model Context Protocol."
+    },
+    {
+      "start": 2169.89,
+      "end": 2171.89,
+      "text": "So guys, let's talk about MCP."
+    },
+    {
+      "start": 2172.39,
+      "end": 2175.89,
+      "text": "Let me tell you in simple words how MCP works."
+    },
+    {
+      "start": 2177.02,
+      "end": 2179.52,
+      "text": "So there are two entities in MCP."
+    },
+    {
+      "start": 2180.02,
+      "end": 2183.02,
+      "text": "One is client and the other is server."
+    },
+    {
+      "start": 2183.02,
+      "end": 2187.93,
+      "text": "And the whole communication is going on between these two entities."
+    },
+    {
+      "start": 2188.43,
+      "end": 2192.5,
+      "text": "Now don't start thinking about what is the new thing"
+    },
+    {
+      "start": 2193.0,
+      "end": 2196.0,
+      "text": "by calling client or server."
+    },
+    {
+      "start": 2196.5,
+      "end": 2202.62,
+      "text": "Actually, the client in MCP is your AI chatbot."
+    },
+    {
+      "start": 2203.12,
+      "end": 2207.48,
+      "text": "Basically your chat gpt, cursor, perplexity,"
+    },
+    {
+      "start": 2207.98,
+      "end": 2209.48,
+      "text": "or your own AI chatbot."
+    },
+    {
+      "start": 2209.98,
+      "end": 2212.04,
+      "text": "We are calling that client."
+    },
+    {
+      "start": 2212.04,
+      "end": 2216.12,
+      "text": "And the server is basically that service"
+    },
+    {
+      "start": 2216.62,
+      "end": 2219.12,
+      "text": "through which you want to connect your AI chatbot."
+    },
+    {
+      "start": 2219.62,
+      "end": 2223.12,
+      "text": "Like GitHub, Google Drive, Slack."
+    },
+    {
+      "start": 2223.62,
+      "end": 2229.12,
+      "text": "Now the general architecture of any MCP application"
+    },
+    {
+      "start": 2229.62,
+      "end": 2233.12,
+      "text": "shows that you have a single client"
+    },
+    {
+      "start": 2233.62,
+      "end": 2237.24,
+      "text": "and he is connected to a lot of servers."
+    },
+    {
+      "start": 2237.74,
+      "end": 2239.24,
+      "text": "He is connected to a lot of tools."
+    },
+    {
+      "start": 2239.24,
+      "end": 2244.74,
+      "text": "Meaning an AI chatbot is connected to multiple tools."
+    },
+    {
+      "start": 2245.24,
+      "end": 2248.74,
+      "text": "So one tool is GitHub, one is Google Drive, one is Slack."
+    },
+    {
+      "start": 2249.92,
+      "end": 2252.42,
+      "text": "Now the whole communication is going on,"
+    },
+    {
+      "start": 2252.92,
+      "end": 2257.42,
+      "text": "the whole conversation between the client and the servers."
+    },
+    {
+      "start": 2258.46,
+      "end": 2265.12,
+      "text": "The language we are talking about is called MCP or Model Context Protocol."
+    },
+    {
+      "start": 2265.12,
+      "end": 2270.62,
+      "text": "Okay, so I really hope you understand what I have just said."
+    },
+    {
+      "start": 2271.31,
+      "end": 2273.81,
+      "text": "Now I know that you must be curious"
+    },
+    {
+      "start": 2274.31,
+      "end": 2279.81,
+      "text": "how I can make my AI chatbot MCP client"
+    },
+    {
+      "start": 2280.31,
+      "end": 2284.81,
+      "text": "and how I can make my tools MCP server."
+    },
+    {
+      "start": 2285.92,
+      "end": 2291.48,
+      "text": "Now the answer is that if you read the MCP protocol properly,"
+    },
+    {
+      "start": 2291.98,
+      "end": 2293.98,
+      "text": "its documentation properly,"
+    },
+    {
+      "start": 2293.98,
+      "end": 2298.68,
+      "text": "then you can write the entire code on your own from scratch"
+    },
+    {
+      "start": 2299.18,
+      "end": 2303.68,
+      "text": "which will establish this MCP communication between client and server."
+    },
+    {
+      "start": 2304.18,
+      "end": 2308.68,
+      "text": "But Anthropic gives you a Bani Bani library or SDK."
+    },
+    {
+      "start": 2309.18,
+      "end": 2315.68,
+      "text": "So if you want to make your AI chatbot MCP compatible client,"
+    },
+    {
+      "start": 2316.18,
+      "end": 2317.68,
+      "text": "then you don't have to do anything,"
+    },
+    {
+      "start": 2318.18,
+      "end": 2323.18,
+      "text": "you have to install an MCP client SDK on your machine."
+    },
+    {
+      "start": 2323.18,
+      "end": 2325.68,
+      "text": "where your AI chatbot is running."
+    },
+    {
+      "start": 2326.18,
+      "end": 2331.68,
+      "text": "And if you want to make your tools MCP compliant server,"
+    },
+    {
+      "start": 2332.18,
+      "end": 2335.68,
+      "text": "then again you have a library called MCP server SDK,"
+    },
+    {
+      "start": 2336.18,
+      "end": 2340.68,
+      "text": "you will use it to build your tools."
+    },
+    {
+      "start": 2341.18,
+      "end": 2342.68,
+      "text": "This is the biggest difference."
+    },
+    {
+      "start": 2343.18,
+      "end": 2347.68,
+      "text": "This is how you are becoming MCP client, this is how you are becoming MCP server."
+    },
+    {
+      "start": 2348.18,
+      "end": 2350.68,
+      "text": "Now let's go to the technical level and understand"
+    },
+    {
+      "start": 2350.68,
+      "end": 2354.18,
+      "text": "how MCP is different from function or tool calling,"
+    },
+    {
+      "start": 2354.68,
+      "end": 2356.18,
+      "text": "which we read just before."
+    },
+    {
+      "start": 2356.68,
+      "end": 2359.18,
+      "text": "So in function or tool calling what you do is,"
+    },
+    {
+      "start": 2359.68,
+      "end": 2367.18,
+      "text": "you write a function to access the API of the tool you want to connect with."
+    },
+    {
+      "start": 2367.68,
+      "end": 2371.18,
+      "text": "In your AI chatbot, which I showed you earlier,"
+    },
+    {
+      "start": 2371.68,
+      "end": 2375.18,
+      "text": "we made two different tools in our chatbot,"
+    },
+    {
+      "start": 2375.68,
+      "end": 2377.18,
+      "text": "calculator one and stocks one."
+    },
+    {
+      "start": 2377.18,
+      "end": 2382.68,
+      "text": "So what happens is that even here a client server model is being followed."
+    },
+    {
+      "start": 2383.18,
+      "end": 2388.68,
+      "text": "For example, if we want to connect our AI chatbot with a weather tool,"
+    },
+    {
+      "start": 2389.18,
+      "end": 2394.68,
+      "text": "then obviously somewhere on the server there will be an API of the weather tool,"
+    },
+    {
+      "start": 2395.18,
+      "end": 2397.68,
+      "text": "which is written in fast API and will look something like this."
+    },
+    {
+      "start": 2398.18,
+      "end": 2399.68,
+      "text": "So this kind of our server is done."
+    },
+    {
+      "start": 2400.18,
+      "end": 2402.8,
+      "text": "And then to access it what we do is,"
+    },
+    {
+      "start": 2403.3,
+      "end": 2404.8,
+      "text": "we write a function."
+    },
+    {
+      "start": 2404.8,
+      "end": 2408.43,
+      "text": "In our AI chatbot code."
+    },
+    {
+      "start": 2408.93,
+      "end": 2414.43,
+      "text": "And here we write a code to get data by hitting this API."
+    },
+    {
+      "start": 2414.93,
+      "end": 2417.43,
+      "text": "So this kind of our client side is done."
+    },
+    {
+      "start": 2417.93,
+      "end": 2421.43,
+      "text": "So this is normal function or tool calling."
+    },
+    {
+      "start": 2421.93,
+      "end": 2425.5,
+      "text": "Now let me tell you what happens in MCP."
+    },
+    {
+      "start": 2426.0,
+      "end": 2429.59,
+      "text": "So there will be a server in MCP,"
+    },
+    {
+      "start": 2430.09,
+      "end": 2434.14,
+      "text": "where the weather data will be recorded."
+    },
+    {
+      "start": 2434.14,
+      "end": 2438.64,
+      "text": "The server here will be made with the help of the MCP library."
+    },
+    {
+      "start": 2439.14,
+      "end": 2442.64,
+      "text": "The code is different, but internally it is using the same API."
+    },
+    {
+      "start": 2443.14,
+      "end": 2448.34,
+      "text": "The main difference comes from the client side."
+    },
+    {
+      "start": 2448.84,
+      "end": 2454.34,
+      "text": "On the client side, you don't need to write any code in your AI chatbot."
+    },
+    {
+      "start": 2454.84,
+      "end": 2459.66,
+      "text": "Since you have already integrated the client and server and configured it,"
+    },
+    {
+      "start": 2460.16,
+      "end": 2463.66,
+      "text": "and they are speaking the same language that is model context protocol,"
+    },
+    {
+      "start": 2463.66,
+      "end": 2469.32,
+      "text": "then you don't need to write a code and fetch the API data separately."
+    },
+    {
+      "start": 2469.82,
+      "end": 2472.32,
+      "text": "All this work is done by the server."
+    },
+    {
+      "start": 2472.82,
+      "end": 2475.32,
+      "text": "So let me explain you again on a technical level."
+    },
+    {
+      "start": 2475.82,
+      "end": 2482.44,
+      "text": "In function calling, there is a server code that is written by the company,"
+    },
+    {
+      "start": 2482.94,
+      "end": 2484.44,
+      "text": "and a client code that is written by you."
+    },
+    {
+      "start": 2484.94,
+      "end": 2489.44,
+      "text": "And these two codes work together, then the task is completed."
+    },
+    {
+      "start": 2489.94,
+      "end": 2494.36,
+      "text": "In MCP, all the heavy lifting is done by the server."
+    },
+    {
+      "start": 2494.36,
+      "end": 2495.86,
+      "text": "MCP server."
+    },
+    {
+      "start": 2496.36,
+      "end": 2498.92,
+      "text": "And you don't have to do anything on the client side."
+    },
+    {
+      "start": 2499.42,
+      "end": 2501.92,
+      "text": "You just have to connect the client and server."
+    },
+    {
+      "start": 2502.42,
+      "end": 2505.92,
+      "text": "Once both are connected and the same language is spoken,"
+    },
+    {
+      "start": 2506.42,
+      "end": 2511.92,
+      "text": "then our client knows, our AI tool knows that it has access to this server,"
+    },
+    {
+      "start": 2512.42,
+      "end": 2517.92,
+      "text": "and it can fetch the tool of your choice from that server."
+    },
+    {
+      "start": 2518.42,
+      "end": 2521.92,
+      "text": "So this is the major difference between MCP"
+    },
+    {
+      "start": 2521.92,
+      "end": 2526.42,
+      "text": "and function slash tool calling, that in MCP,"
+    },
+    {
+      "start": 2526.92,
+      "end": 2529.42,
+      "text": "the server does the heavy lifting on the client side,"
+    },
+    {
+      "start": 2529.92,
+      "end": 2532.42,
+      "text": "on the AI chartboard side, you don't have to do anything."
+    },
+    {
+      "start": 2532.92,
+      "end": 2534.42,
+      "text": "You just have to connect and sit."
+    },
+    {
+      "start": 2534.92,
+      "end": 2539.42,
+      "text": "So suppose if you are making a GitHub server in MCP,"
+    },
+    {
+      "start": 2539.92,
+      "end": 2543.42,
+      "text": "then it is the responsibility to do everything on the GitHub server."
+    },
+    {
+      "start": 2543.92,
+      "end": 2548.42,
+      "text": "The whole business logic will be implemented on this server."
+    },
+    {
+      "start": 2548.42,
+      "end": 2551.92,
+      "text": "The work of authentication will be implemented on the server."
+    },
+    {
+      "start": 2552.42,
+      "end": 2554.92,
+      "text": "The rate limiting of API will be seen on the server."
+    },
+    {
+      "start": 2555.42,
+      "end": 2559.92,
+      "text": "Data format, translation, LLM, everything will be seen on the server."
+    },
+    {
+      "start": 2560.42,
+      "end": 2562.92,
+      "text": "The code for error handling will also be written on the server."
+    },
+    {
+      "start": 2563.42,
+      "end": 2567.92,
+      "text": "And the right error code will be sent to the client, if something goes wrong."
+    },
+    {
+      "start": 2568.42,
+      "end": 2569.92,
+      "text": "And what you have to do with your client,"
+    },
+    {
+      "start": 2570.42,
+      "end": 2572.92,
+      "text": "you just have to connect with this server."
+    },
+    {
+      "start": 2573.42,
+      "end": 2575.92,
+      "text": "And you have to call it the same language, MCP."
+    },
+    {
+      "start": 2575.92,
+      "end": 2581.64,
+      "text": "This is the biggest difference between function slash tool calling and MCP."
+    },
+    {
+      "start": 2582.14,
+      "end": 2584.64,
+      "text": "I really hope you understand a little bit."
+    },
+    {
+      "start": 2585.14,
+      "end": 2587.64,
+      "text": "In future videos, we will study it in a lot of detail."
+    },
+    {
+      "start": 2588.14,
+      "end": 2591.64,
+      "text": "But right now I want to give you an overview, a gist."
+    },
+    {
+      "start": 2592.27,
+      "end": 2600.77,
+      "text": "Now let's discuss once, what is the benefit of implementing this particular logic?"
+    },
+    {
+      "start": 2601.27,
+      "end": 2604.77,
+      "text": "So as I said, the biggest benefit of MCP is that"
+    },
+    {
+      "start": 2604.77,
+      "end": 2607.27,
+      "text": "you don't have to do anything on the client side."
+    },
+    {
+      "start": 2607.77,
+      "end": 2610.27,
+      "text": "You are doing all the heavy lifting servers."
+    },
+    {
+      "start": 2610.77,
+      "end": 2613.27,
+      "text": "So after MCP came, this happened."
+    },
+    {
+      "start": 2613.77,
+      "end": 2619.27,
+      "text": "All the famous service providers, Github, Google Drive, Slack,"
+    },
+    {
+      "start": 2619.77,
+      "end": 2623.27,
+      "text": "all of them made their own official MCP servers."
+    },
+    {
+      "start": 2623.77,
+      "end": 2632.27,
+      "text": "Which basically means that any MCP compliant AI tool can easily connect with these servers."
+    },
+    {
+      "start": 2632.27,
+      "end": 2636.9,
+      "text": "Now the benefit of this is that your integration problem,"
+    },
+    {
+      "start": 2637.4,
+      "end": 2642.9,
+      "text": "suppose there are 3-4 boards in your company and you want to connect with 10 services."
+    },
+    {
+      "start": 2643.4,
+      "end": 2647.9,
+      "text": "So you had to write 3 multiplied by 10, 30 unique integrations."
+    },
+    {
+      "start": 2648.4,
+      "end": 2649.9,
+      "text": "Now you don't have to do this."
+    },
+    {
+      "start": 2650.4,
+      "end": 2653.9,
+      "text": "Now if you want to connect with 10 MCP servers,"
+    },
+    {
+      "start": 2654.4,
+      "end": 2656.9,
+      "text": "then you only need 10 integrations."
+    },
+    {
+      "start": 2657.4,
+      "end": 2659.9,
+      "text": "And those integrations are also written on the server side."
+    },
+    {
+      "start": 2659.9,
+      "end": 2661.9,
+      "text": "The service provider is writing it himself."
+    },
+    {
+      "start": 2662.4,
+      "end": 2665.4,
+      "text": "You don't need to write any integration on the client side."
+    },
+    {
+      "start": 2665.9,
+      "end": 2671.4,
+      "text": "You can just configure your AI tool to connect with the server."
+    },
+    {
+      "start": 2671.9,
+      "end": 2674.9,
+      "text": "So first where there were m cross n integrations,"
+    },
+    {
+      "start": 2675.4,
+      "end": 2677.9,
+      "text": "now in return there are only m plus n integrations."
+    },
+    {
+      "start": 2678.4,
+      "end": 2683.4,
+      "text": "And the actual code written on the server side is delegated."
+    },
+    {
+      "start": 2683.9,
+      "end": 2685.4,
+      "text": "You don't have to do anything to the client."
+    },
+    {
+      "start": 2685.9,
+      "end": 2687.4,
+      "text": "This is the first benefit."
+    },
+    {
+      "start": 2687.4,
+      "end": 2690.9,
+      "text": "Second benefit is there is no maintenance overhead."
+    },
+    {
+      "start": 2691.4,
+      "end": 2694.9,
+      "text": "Since I am not writing any code on my site to connect,"
+    },
+    {
+      "start": 2695.4,
+      "end": 2697.4,
+      "text": "then nothing can go wrong there."
+    },
+    {
+      "start": 2697.9,
+      "end": 2700.9,
+      "text": "If the API is updated tomorrow,"
+    },
+    {
+      "start": 2701.4,
+      "end": 2703.4,
+      "text": "then it is the server's headache."
+    },
+    {
+      "start": 2703.9,
+      "end": 2705.4,
+      "text": "The server will update its code."
+    },
+    {
+      "start": 2705.9,
+      "end": 2707.9,
+      "text": "I don't need to do anything on my site."
+    },
+    {
+      "start": 2708.4,
+      "end": 2710.4,
+      "text": "On the client side there will be no changes."
+    },
+    {
+      "start": 2710.9,
+      "end": 2713.9,
+      "text": "Third, reduced cost and time."
+    },
+    {
+      "start": 2713.9,
+      "end": 2718.9,
+      "text": "Suppose I have to connect my AI chatbot with 10 different services."
+    },
+    {
+      "start": 2719.4,
+      "end": 2723.4,
+      "text": "So first I had to make 10 integrations in which I used to take time."
+    },
+    {
+      "start": 2723.9,
+      "end": 2725.4,
+      "text": "But what I have to do in today's date?"
+    },
+    {
+      "start": 2725.9,
+      "end": 2727.9,
+      "text": "I just have to make AI chatbots."
+    },
+    {
+      "start": 2728.4,
+      "end": 2730.9,
+      "text": "And 10 servers are already available."
+    },
+    {
+      "start": 2731.4,
+      "end": 2733.4,
+      "text": "I will directly connect them on day 1."
+    },
+    {
+      "start": 2733.9,
+      "end": 2739.4,
+      "text": "So on day 1 I will get 10 servers easily."
+    },
+    {
+      "start": 2739.9,
+      "end": 2742.4,
+      "text": "So there is time left here."
+    },
+    {
+      "start": 2742.4,
+      "end": 2748.9,
+      "text": "And obviously cost is left because I don't have to hire different engineers to create and maintain these integrations."
+    },
+    {
+      "start": 2749.4,
+      "end": 2753.9,
+      "text": "And the last point is that we get better security."
+    },
+    {
+      "start": 2754.4,
+      "end": 2761.9,
+      "text": "Why? Because when you connect an AI chatbot to multiple services,"
+    },
+    {
+      "start": 2762.4,
+      "end": 2765.9,
+      "text": "then you simply have to maintain a JSON file,"
+    },
+    {
+      "start": 2766.4,
+      "end": 2771.4,
+      "text": "a config file where all your connections are written in one place."
+    },
+    {
+      "start": 2771.4,
+      "end": 2781.35,
+      "text": "For example, this much part that you are showing is the code to connect my AI chatbot with GitHub."
+    },
+    {
+      "start": 2781.85,
+      "end": 2783.91,
+      "text": "This is it. I just need this much code."
+    },
+    {
+      "start": 2784.41,
+      "end": 2789.41,
+      "text": "Here I have given my personal access token and this is connected to my GitHub account."
+    },
+    {
+      "start": 2789.91,
+      "end": 2794.91,
+      "text": "Similarly, this much code is connected to my AI chatbot with Notion."
+    },
+    {
+      "start": 2795.41,
+      "end": 2797.91,
+      "text": "Again I have given my API key."
+    },
+    {
+      "start": 2797.91,
+      "end": 2812.91,
+      "text": "Now managing or auditing this single file is much simpler than the old case where we had kept 10 different APIs in different files and tools."
+    },
+    {
+      "start": 2813.41,
+      "end": 2816.91,
+      "text": "So this is a much better security model as well."
+    },
+    {
+      "start": 2817.41,
+      "end": 2819.91,
+      "text": "So these are the main benefits of MCP."
+    },
+    {
+      "start": 2819.91,
+      "end": 2833.41,
+      "text": "Again, everything depends on a simple fact and the fact is that the entire heavy lifting is done by the server."
+    },
+    {
+      "start": 2833.91,
+      "end": 2837.41,
+      "text": "On the client side, the AI chatbot has to do nothing."
+    },
+    {
+      "start": 2837.91,
+      "end": 2843.41,
+      "text": "You basically have to maintain a JSON file like this to connect to various servers."
+    },
+    {
+      "start": 2843.91,
+      "end": 2846.41,
+      "text": "And that's it. Your work is done."
+    },
+    {
+      "start": 2846.41,
+      "end": 2850.41,
+      "text": "So I have given you an overview of how MCP works."
+    },
+    {
+      "start": 2850.91,
+      "end": 2853.91,
+      "text": "But now I want to discuss one more thing with you."
+    },
+    {
+      "start": 2854.41,
+      "end": 2859.3,
+      "text": "And it is that how is MCP becoming so popular?"
+    },
+    {
+      "start": 2859.8,
+      "end": 2864.42,
+      "text": "What is the reason that MCP's ecosystem is growing so fast?"
+    },
+    {
+      "start": 2864.92,
+      "end": 2870.42,
+      "text": "And why does it feel that MCP will become an industry standard in the next 3 to 5 years?"
+    },
+    {
+      "start": 2870.92,
+      "end": 2875.78,
+      "text": "Now the reason behind it is very simple. You can easily understand this whole dynamic."
+    },
+    {
+      "start": 2875.78,
+      "end": 2882.97,
+      "text": "So what is happening is that some very famous AI chatbots are openly saying that we support MCP."
+    },
+    {
+      "start": 2883.47,
+      "end": 2886.1,
+      "text": "Claude Dextop said that we support MCP."
+    },
+    {
+      "start": 2886.6,
+      "end": 2890.69,
+      "text": "Cursor, Windsurf, Perplexity also said that we support MCP."
+    },
+    {
+      "start": 2891.19,
+      "end": 2895.51,
+      "text": "Now as soon as these chatbots said that we support MCP,"
+    },
+    {
+      "start": 2896.01,
+      "end": 2900.67,
+      "text": "so a lot of the services started getting pressure on them."
+    },
+    {
+      "start": 2901.17,
+      "end": 2904.67,
+      "text": "Services like GitHub, Slack, Google Drive, etc."
+    },
+    {
+      "start": 2904.67,
+      "end": 2909.77,
+      "text": "It started getting pressure because it shows these companies that"
+    },
+    {
+      "start": 2910.27,
+      "end": 2916.49,
+      "text": "whatever people will do in the future, they will do all the work through these AI tools."
+    },
+    {
+      "start": 2916.99,
+      "end": 2922.49,
+      "text": "So it won't be like before that if I want to access a document in Drive,"
+    },
+    {
+      "start": 2922.99,
+      "end": 2926.49,
+      "text": "then I will open Drive.google.com and read the document there."
+    },
+    {
+      "start": 2926.99,
+      "end": 2930.49,
+      "text": "Instead people will simply say on their chatbots that"
+    },
+    {
+      "start": 2930.99,
+      "end": 2933.49,
+      "text": "give me this document from my Drive from this folder."
+    },
+    {
+      "start": 2933.49,
+      "end": 2937.99,
+      "text": "So they also know that in the future, whatever traction they will have,"
+    },
+    {
+      "start": 2938.49,
+      "end": 2940.99,
+      "text": "whatever users will come, they will come through these AI tools."
+    },
+    {
+      "start": 2941.49,
+      "end": 2950.09,
+      "text": "So if these AI tools are supporting MCP, then I should also make MCP servers from my APIs."
+    },
+    {
+      "start": 2950.59,
+      "end": 2957.15,
+      "text": "Because if I make MCP servers once, then any MCP compliant,"
+    },
+    {
+      "start": 2957.65,
+      "end": 2960.15,
+      "text": "compatible tool can easily connect with my server."
+    },
+    {
+      "start": 2960.65,
+      "end": 2962.65,
+      "text": "It doesn't need to write a custom code."
+    },
+    {
+      "start": 2962.65,
+      "end": 2964.65,
+      "text": "So what is happening in this?"
+    },
+    {
+      "start": 2965.15,
+      "end": 2969.65,
+      "text": "All your famous services are becoming MCP servers."
+    },
+    {
+      "start": 2970.15,
+      "end": 2974.68,
+      "text": "Now the fun part is that the more MCP servers you make,"
+    },
+    {
+      "start": 2975.18,
+      "end": 2977.75,
+      "text": "the more the MCP ecosystem will benefit."
+    },
+    {
+      "start": 2978.25,
+      "end": 2981.75,
+      "text": "Yesterday a company made a new AI chatbot."
+    },
+    {
+      "start": 2982.25,
+      "end": 2989.31,
+      "text": "It simply has to do that it has to make its AI chatbot a MCP-compatible client."
+    },
+    {
+      "start": 2989.31,
+      "end": 2995.94,
+      "text": "And if it makes it, then it can connect thousands of MCP servers on day one"
+    },
+    {
+      "start": 2996.44,
+      "end": 2998.94,
+      "text": "without writing any piece of code."
+    },
+    {
+      "start": 2999.44,
+      "end": 3002.94,
+      "text": "So the basic funda is that more AI clients are coming,"
+    },
+    {
+      "start": 3003.44,
+      "end": 3006.13,
+      "text": "more AI chatbots are coming, as a client,"
+    },
+    {
+      "start": 3006.63,
+      "end": 3009.13,
+      "text": "so a lot of servers are being made."
+    },
+    {
+      "start": 3009.63,
+      "end": 3011.13,
+      "text": "A lot of servers are being made,"
+    },
+    {
+      "start": 3011.63,
+      "end": 3018.13,
+      "text": "so the pressure on new chatbots is that they should connect with these servers."
+    },
+    {
+      "start": 3018.13,
+      "end": 3023.63,
+      "text": "So the new clients are automatically MCP compliant."
+    },
+    {
+      "start": 3024.13,
+      "end": 3026.63,
+      "text": "So basically a network effect is being made,"
+    },
+    {
+      "start": 3027.13,
+      "end": 3030.63,
+      "text": "because of which the ecosystem is growing exponentially."
+    },
+    {
+      "start": 3031.13,
+      "end": 3036.63,
+      "text": "So more adoption, more standardization, more value of the ecosystem."
+    },
+    {
+      "start": 3037.13,
+      "end": 3041.13,
+      "text": "And if a client or a server,"
+    },
+    {
+      "start": 3041.63,
+      "end": 3045.13,
+      "text": "basically an AI chatbot or a tool,"
+    },
+    {
+      "start": 3045.13,
+      "end": 3048.13,
+      "text": "if MCP is not adopting it,"
+    },
+    {
+      "start": 3048.63,
+      "end": 3054.13,
+      "text": "then it means that the massive ecosystem will be cut off."
+    },
+    {
+      "start": 3054.63,
+      "end": 3057.13,
+      "text": "And it will have to write a lot of custom code"
+    },
+    {
+      "start": 3057.63,
+      "end": 3063.13,
+      "text": "in order to make sure that its AI chatbot interacts with all the services properly."
+    },
+    {
+      "start": 3063.63,
+      "end": 3066.13,
+      "text": "Which will be stupid again."
+    },
+    {
+      "start": 3066.63,
+      "end": 3070.13,
+      "text": "That is why MCP has positioned himself in the right way."
+    },
+    {
+      "start": 3070.63,
+      "end": 3074.13,
+      "text": "And it seems that in the next 3 to 5 years it will become an industry standard."
+    },
+    {
+      "start": 3074.13,
+      "end": 3077.63,
+      "text": "So with that, I will conclude this video."
+    },
+    {
+      "start": 3078.13,
+      "end": 3082.63,
+      "text": "I really hope that I was able to explain to you in a story,"
+    },
+    {
+      "start": 3083.13,
+      "end": 3085.63,
+      "text": "why MCP is needed."
+    },
+    {
+      "start": 3086.13,
+      "end": 3088.63,
+      "text": "I started from day one."
+    },
+    {
+      "start": 3089.13,
+      "end": 3091.63,
+      "text": "And today's scenario, I brought you to that point."
+    },
+    {
+      "start": 3092.13,
+      "end": 3095.63,
+      "text": "I really hope that the video was long, but not boring."
+    },
+    {
+      "start": 3096.13,
+      "end": 3098.63,
+      "text": "And you were able to derive some value."
+    },
+    {
+      "start": 3099.13,
+      "end": 3101.63,
+      "text": "Now in the next video, in very detail,"
+    },
+    {
+      "start": 3101.63,
+      "end": 3106.13,
+      "text": "at the architecture level, we will understand how MCP works."
+    },
+    {
+      "start": 3106.63,
+      "end": 3108.13,
+      "text": "The Watt of MCP."
+    },
+    {
+      "start": 3108.63,
+      "end": 3111.13,
+      "text": "So I really hope you are excited for the next video."
+    },
+    {
+      "start": 3111.63,
+      "end": 3114.13,
+      "text": "If you liked this video, please like it."
+    },
+    {
+      "start": 3114.63,
+      "end": 3118.13,
+      "text": "If you have not subscribed to this channel, please do subscribe."
+    },
+    {
+      "start": 3118.63,
+      "end": 3120.13,
+      "text": "See you in the next video. Bye."
+    }
+  ]
+}
